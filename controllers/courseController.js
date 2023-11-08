@@ -45,6 +45,24 @@ export const getCourse = catchAsync(async (req, res, next) => {
   });
 });
 
+export const likeCourse = catchAsync(async (req, res, next) => {
+  const userId = req.user._id;
+  const course = await Course.findByIdAndUpdate(
+    req.params.id,
+    {
+      $addToSet: { likes: userId },
+    },
+    {
+      new: true,
+    }
+  );
+
+  res.status(200).json({
+    status: "success",
+    course,
+  });
+});
+
 export const updateCourseStatus = catchAsync(async (req, res, next) => {
   const { enrollmentId, status } = req.body;
   const studentId = req.user._id;

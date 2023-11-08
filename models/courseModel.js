@@ -24,6 +24,13 @@ const courseSchema = new mongoose.Schema({
       email: String,
     },
   ],
+
+  likes: [
+    {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "User",
+    },
+  ],
 });
 
 // Create a Course model using the schema
