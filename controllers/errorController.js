@@ -20,9 +20,8 @@ const sendDevErr = function (err, req, res) {
   console.log(`${err} 💥💥`);
 };
 
-module.exports = (err, req, res, next) => {
+export default (err, req, res, next) => {
   err.statusCode = err.statusCode || 500;
   err.status = err.status || "error";
   sendDevErr(err, req, res);
-  next();
 };

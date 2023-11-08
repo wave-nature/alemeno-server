@@ -1,0 +1,6434 @@
+[
+  {
+    "name": "Course 1",
+    "instructor": "Adam Corwin",
+    "description": "Corrigo thesaurus sumptus cruentus admiratio.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/42Qgu/640/480",
+    "duration": "7 weeks",
+    "schedule": "Sat",
+    "location": "816 Adah Path, Fort Buddyfort",
+    "prerequisites": [
+      "aspernatur",
+      "defetiscor"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "creptio conservo vox",
+        "content": "Accusamus canto copiose trado. Adicio amita caste quis comedo delego. Degenero crastinus comparo arbor contigo."
+      },
+      {
+        "week": 2,
+        "topic": "substantia aurum architecto",
+        "content": "Complectus apto suffragium deleniti. Voluptas supplanto a ullam copia tenetur provident. Caelestis agnosco thesaurus dicta ipsam."
+      },
+      {
+        "week": 3,
+        "topic": "cerno torqueo exercitationem",
+        "content": "Valens nihil demo confido stella apparatus comminor infit. Curto similique tempore cado bibo valeo anser curtus spero deputo. Trado consuasor stillicidium audio sono averto truculenter degenero maiores."
+      }
+    ],
+    "students": [
+      {
+        "name": "Fredrick Koelpin I",
+        "email": "Gerhard.Murphy-Kerluke33@gmail.com"
+      },
+      {
+        "name": "Christy Gottlieb",
+        "email": "Mya23@gmail.com"
+      },
+      {
+        "name": "Tammy Bauch",
+        "email": "Easton72@yahoo.com"
+      },
+      {
+        "name": "Shawn Becker",
+        "email": "Tressie.Russel@gmail.com"
+      },
+      {
+        "name": "Beulah Walter",
+        "email": "Laurence80@hotmail.com"
+      },
+      {
+        "name": "Velma Moen",
+        "email": "Sigrid.Toy40@yahoo.com"
+      },
+      {
+        "name": "Mildred Funk-Jakubowski",
+        "email": "Winifred34@yahoo.com"
+      },
+      {
+        "name": "Paulette Runolfsdottir",
+        "email": "Mallie.Legros@yahoo.com"
+      },
+      {
+        "name": "Mr. Darrell Daugherty DDS",
+        "email": "Raymundo87@gmail.com"
+      },
+      {
+        "name": "Laurie Paucek",
+        "email": "Nakia45@gmail.com"
+      },
+      {
+        "name": "Becky Turcotte",
+        "email": "Deshawn41@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 2",
+    "instructor": "Elisa Miller",
+    "description": "Statim acer iste.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=7651425353990144",
+    "duration": "9 weeks",
+    "schedule": "Fri",
+    "location": "50984 Poplar Road, Parisianburgh",
+    "prerequisites": [
+      "placeat",
+      "thorax"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "conservo ulciscor delinquo",
+        "content": "Somnus amoveo aeternus civis colo valens error. Tersus neque armarium adopto acceptus abstergo. Celebrer turbo brevis cornu catena ipsam acidus deficio pauci."
+      },
+      {
+        "week": 2,
+        "topic": "peccatus tunc constans",
+        "content": "Peior tutis careo adulescens ater desipio ullam. Cena balbus deputo defetiscor pax. Peior defessus supellex cubitum cupiditas casso."
+      }
+    ],
+    "students": [
+      {
+        "name": "Jerald Schulist",
+        "email": "Lulu87@hotmail.com"
+      },
+      {
+        "name": "Darnell Hauck",
+        "email": "Heather.Walker@gmail.com"
+      },
+      {
+        "name": "Lola Bernhard",
+        "email": "Kayleigh_Dach71@gmail.com"
+      },
+      {
+        "name": "Corey Osinski",
+        "email": "Marcelina49@yahoo.com"
+      },
+      {
+        "name": "Dr. Kirk Rempel DVM",
+        "email": "Eliseo.Reichert4@yahoo.com"
+      },
+      {
+        "name": "Margaret Davis",
+        "email": "Dylan20@hotmail.com"
+      },
+      {
+        "name": "Colin Streich",
+        "email": "Abdul.Brekke@gmail.com"
+      },
+      {
+        "name": "Ervin Leffler",
+        "email": "Samson.Nikolaus@hotmail.com"
+      },
+      {
+        "name": "Derek Mante",
+        "email": "Leora_Hirthe@gmail.com"
+      },
+      {
+        "name": "Israel Larson",
+        "email": "Edyth_Howe@hotmail.com"
+      },
+      {
+        "name": "Dr. Salvatore Dooley",
+        "email": "Isaac_Considine18@gmail.com"
+      },
+      {
+        "name": "Ralph O'Reilly",
+        "email": "Gail_Kub@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 3",
+    "instructor": "Felicia Cummerata",
+    "description": "Altus video aeger spiritus vulpes.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=1073476806901760",
+    "duration": "2 weeks",
+    "schedule": "Wed",
+    "location": "7327 S 2nd Street, Edfurt",
+    "prerequisites": [
+      "deficio",
+      "illum"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "aetas via veritas",
+        "content": "Ut tamdiu curo calcar cuppedia textor. Canonicus artificiose approbo. Trans taedium campana cimentarius demens cras viscus averto cervus."
+      },
+      {
+        "week": 2,
+        "topic": "delicate conspergo adsidue",
+        "content": "Trans audeo vitiosus occaecati depereo carbo amita confero argumentum curvo. Ulterius sol spoliatio coadunatio vir aqua delinquo patruus culpa ex. Voluptatibus subnecto aqua animadverto censura."
+      },
+      {
+        "week": 3,
+        "topic": "ater rerum cohaero",
+        "content": "Desipio ante umerus quisquam bene suasoria somnus carmen acquiro sulum. Admoneo pel appello adeo. Careo conitor aqua benevolentia decimus vulnus facilis cito."
+      }
+    ],
+    "students": []
+  },
+  {
+    "name": "Course 4",
+    "instructor": "Cindy Heaney",
+    "description": "Ut caveo velut cruciamentum sophismata alii depono.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=3135795479183360",
+    "duration": "3 weeks",
+    "schedule": "Tue",
+    "location": "562 Kub Field, Littelworth",
+    "prerequisites": [
+      "una",
+      "totus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "charisma demo cimentarius",
+        "content": "Voro correptius synagoga enim cognomen basium aestivus cunae vito maxime. Dolore exercitationem adfero pauci amaritudo. Acceptus coma natus convoco contabesco adamo."
+      },
+      {
+        "week": 2,
+        "topic": "acer subiungo cornu",
+        "content": "Aranea substantia allatus auctor demum. Volo volva teres addo volaticus. Solitudo absorbeo decipio tamdiu constans sol spectaculum valetudo vos."
+      },
+      {
+        "week": 3,
+        "topic": "spero utilis unus",
+        "content": "Thorax decumbo subito spero timidus calco adamo bonus. Adfero amissio est acquiro. Aduro bene valetudo aestivus succurro depulso comptus ocer suffoco vesco."
+      }
+    ],
+    "students": [
+      {
+        "name": "Elijah Barton DDS",
+        "email": "Katheryn.Will65@yahoo.com"
+      },
+      {
+        "name": "Dr. Rolando Bashirian",
+        "email": "Parker_Towne@gmail.com"
+      },
+      {
+        "name": "Viola Gusikowski",
+        "email": "Karine_Grimes62@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 5",
+    "instructor": "Edmund Lang",
+    "description": "Audeo cilicium strues argumentum conculco adiuvo at cribro.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/kPzogi3/640/480",
+    "duration": "5 weeks",
+    "schedule": "Wed",
+    "location": "9430 Lansdowne Road, Lake Troy",
+    "prerequisites": [
+      "angulus",
+      "laboriosam"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "basium deludo deripio",
+        "content": "Suasoria ultio crur valde sperno ars decumbo sono eos. Caritas quo cervus comis calcar coepi angelus clementia territo. Aurum quas atavus coaegresco aedificium voluptatem repudiandae conspergo alveus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Lloyd Marks",
+        "email": "Elyssa.Dach@yahoo.com"
+      },
+      {
+        "name": "Dr. Louise Fahey",
+        "email": "Georgiana.Hayes44@yahoo.com"
+      },
+      {
+        "name": "Caroline Vandervort",
+        "email": "Burley.Glover@gmail.com"
+      },
+      {
+        "name": "Camille Graham",
+        "email": "Porter68@gmail.com"
+      },
+      {
+        "name": "Sergio Heidenreich",
+        "email": "Ross.Effertz15@gmail.com"
+      },
+      {
+        "name": "Derrick Schmidt",
+        "email": "Eulah64@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 6",
+    "instructor": "Dr. Lynn Ondricka",
+    "description": "Voluptatum id asperiores verecundia tero aer cubo verbera sunt valens.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/cUHvn1F/640/480",
+    "duration": "3 weeks",
+    "schedule": "Tue",
+    "location": "6456 Lebsack Avenue, Wuckertstead",
+    "prerequisites": [
+      "cumque",
+      "cauda"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "coma statim caelum",
+        "content": "Culpa tam minus molestiae stella adsuesco. Arbitro adhaero culpa tres arcus dolorem asper. Venia ventito ademptio tamen cinis aptus distinctio."
+      },
+      {
+        "week": 2,
+        "topic": "audio pel sed",
+        "content": "Suus deleo non compello cauda labore deduco. Claustrum vilis vergo ventosus vomito depulso. Omnis casso vinitor thymbra spero numquam chirographum trepide averto."
+      },
+      {
+        "week": 3,
+        "topic": "conor cubo iure",
+        "content": "Suscipit subseco vitiosus ratione taceo. Uberrime adipiscor debeo solus ipsam. Vehemens clam tubineus vociferor."
+      }
+    ],
+    "students": [
+      {
+        "name": "Dr. Terrell Kunde",
+        "email": "Paula46@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 7",
+    "instructor": "Patty Bode",
+    "description": "Alienus claudeo caste.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=2205477331009536",
+    "duration": "9 weeks",
+    "schedule": "Tue",
+    "location": "773 Keira Viaduct, New Ashleighberg",
+    "prerequisites": [
+      "atque",
+      "aliquid"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "porro sol thesis",
+        "content": "Speciosus defessus aeternus. Civis varius dens calco verbera aetas fugiat aurum. Audeo currus uterque vinculum claro."
+      },
+      {
+        "week": 2,
+        "topic": "theatrum sui dolorum",
+        "content": "Distinctio subnecto aequitas antiquus talio iure. Pel acquiro conturbo cernuus causa tot. Tondeo aeger sulum capitulus."
+      },
+      {
+        "week": 3,
+        "topic": "quod facere inventore",
+        "content": "Antepono temptatio spiritus aequitas solutio. Dolore cerno volaticus trepide sed caput carmen voluptates vicissitudo ut. Currus vomito asperiores sub sursum."
+      }
+    ],
+    "students": [
+      {
+        "name": "Janice Schuster",
+        "email": "Shanny_Funk@gmail.com"
+      },
+      {
+        "name": "Jenna Gulgowski",
+        "email": "Dixie.Mann38@hotmail.com"
+      },
+      {
+        "name": "Dwight Goyette",
+        "email": "Veda.Turcotte43@gmail.com"
+      },
+      {
+        "name": "Kurt Dietrich PhD",
+        "email": "Clara.Mraz@yahoo.com"
+      },
+      {
+        "name": "Elbert Ortiz",
+        "email": "Zoey_Ziemann@hotmail.com"
+      },
+      {
+        "name": "Alfred Gulgowski-Hills",
+        "email": "Ebba_Carroll26@yahoo.com"
+      },
+      {
+        "name": "Phillip Wisozk",
+        "email": "Hyman.Zieme25@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 8",
+    "instructor": "Rafael Cassin",
+    "description": "Tactus canonicus solum commodo officiis eaque utique totus degusto.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/yROuy/640/480",
+    "duration": "1 weeks",
+    "schedule": "Sat",
+    "location": "87984 Arvel Walks, Daphnehaven",
+    "prerequisites": [
+      "aspernatur",
+      "recusandae"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "abstergo caterva voluptas",
+        "content": "Minus acerbitas doloribus. Voluptatibus theatrum considero. Iusto credo tabula somniculosus curto stips speculum optio vinculum."
+      },
+      {
+        "week": 2,
+        "topic": "alo totam aestus",
+        "content": "Acceptus quis caelum. Nisi curso contego decerno despecto spes cresco uxor cinis. Textilis cibo tabula occaecati."
+      }
+    ],
+    "students": [
+      {
+        "name": "Roosevelt Tremblay Jr.",
+        "email": "Dejon_Fisher33@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 9",
+    "instructor": "Norman King",
+    "description": "Victus nostrum tamisium spiritus cupio sono uter.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=4861890836561920",
+    "duration": "4 weeks",
+    "schedule": "Wed",
+    "location": "282 Haag Mill, West Jalyn",
+    "prerequisites": [
+      "stultus",
+      "caelum"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "considero spectaculum supra",
+        "content": "Confugo atque adamo acer. Audeo stultus conatus summa fugit. Crinis apto appono dens rem aperiam crapula adhaero calco."
+      },
+      {
+        "week": 2,
+        "topic": "coniecto aequus cauda",
+        "content": "Fuga utor animadverto. Defluo error adversus carbo subito tollo. Baiulus uberrime sunt dedico custodia delinquo aiunt tergiversatio."
+      },
+      {
+        "week": 3,
+        "topic": "contabesco cohors earum",
+        "content": "Solvo aeneus administratio deleo acceptus caelum. Studio animus suadeo suus anser sortitus summisse. Demulceo collum saepe clam votum doloribus capillus conscendo adipiscor."
+      }
+    ],
+    "students": [
+      {
+        "name": "Marc Orn",
+        "email": "Emma.Gottlieb@gmail.com"
+      },
+      {
+        "name": "Nicole Johnston",
+        "email": "Tre84@yahoo.com"
+      },
+      {
+        "name": "Mario Hickle",
+        "email": "Julius_Metz@hotmail.com"
+      },
+      {
+        "name": "Mr. Kelly Bogisich",
+        "email": "Mortimer15@gmail.com"
+      },
+      {
+        "name": "Leticia Rutherford",
+        "email": "Jacklyn.Goyette46@hotmail.com"
+      },
+      {
+        "name": "Myrtle Runolfsson",
+        "email": "Robin64@hotmail.com"
+      },
+      {
+        "name": "Marjorie Marvin DVM",
+        "email": "Genesis76@gmail.com"
+      },
+      {
+        "name": "Roderick Bruen",
+        "email": "Karli5@gmail.com"
+      },
+      {
+        "name": "Jay Langosh V",
+        "email": "Nathanael.Larkin50@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 10",
+    "instructor": "Laurence Rosenbaum",
+    "description": "Viridis depono conturbo ante.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=7443036963340288",
+    "duration": "4 weeks",
+    "schedule": "Sun",
+    "location": "8401 W 9th Street, West Price",
+    "prerequisites": [
+      "eaque",
+      "validus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "mollitia volutabrum utique",
+        "content": "Cicuta ulciscor sum. Calcar delego curia tutamen demonstro tempora defleo tenus. Adaugeo absorbeo umbra terra vulgivagus soleo sono deduco absorbeo correptius."
+      },
+      {
+        "week": 2,
+        "topic": "demonstro attonbitus adipiscor",
+        "content": "Veritatis denuncio territo angulus angulus socius curis. Apud caput copiose. Cupiditas dignissimos thymum depereo vulnero odio solum conscendo cultellus dedico."
+      }
+    ],
+    "students": [
+      {
+        "name": "Tracy Sawayn",
+        "email": "Aisha.Morar@hotmail.com"
+      },
+      {
+        "name": "Pearl Funk",
+        "email": "Douglas66@gmail.com"
+      },
+      {
+        "name": "Moses Kessler",
+        "email": "Jerald.Bernier@yahoo.com"
+      },
+      {
+        "name": "Jake Schaden",
+        "email": "Adele60@yahoo.com"
+      },
+      {
+        "name": "Esther McGlynn",
+        "email": "Mack.Jaskolski@gmail.com"
+      },
+      {
+        "name": "Ms. Lorraine McCullough",
+        "email": "Lukas.Lesch@gmail.com"
+      },
+      {
+        "name": "Alvin Terry",
+        "email": "Efrain_Mante@hotmail.com"
+      },
+      {
+        "name": "Frances Beahan",
+        "email": "Landen_Boyer94@hotmail.com"
+      },
+      {
+        "name": "Ms. Irene Thompson",
+        "email": "Rhoda13@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 11",
+    "instructor": "Denise Ledner Jr.",
+    "description": "Aperiam ipsum delego utilis angustus demulceo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=2604867048701952",
+    "duration": "9 weeks",
+    "schedule": "Tue",
+    "location": "686 Boyer Shoals, University",
+    "prerequisites": [
+      "valetudo",
+      "thymum"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "turbo stabilis studio",
+        "content": "Thermae tripudio denuncio cura blanditiis templum. Magnam cognatus argumentum doloremque considero. Suadeo nostrum nemo cui deputo vomito depereo."
+      },
+      {
+        "week": 2,
+        "topic": "adipiscor cursim speculum",
+        "content": "Sulum aggredior verto dolores vitium supra veritas. Contego tabella vulgus testimonium. Utilis caste patrocinor perferendis angelus acquiro quia vociferor tero."
+      },
+      {
+        "week": 3,
+        "topic": "atrox suadeo illum",
+        "content": "Aggero pecco taceo aiunt adfero vicinus territo. Aeger aegre video audacia taceo decet. Caute umbra vae adfero cupressus commodo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Monique Klein-Kuhlman",
+        "email": "Cielo73@yahoo.com"
+      },
+      {
+        "name": "Josefina Bergstrom III",
+        "email": "Ed_Bauch@yahoo.com"
+      },
+      {
+        "name": "Randall Crona",
+        "email": "Jeramie61@hotmail.com"
+      },
+      {
+        "name": "Craig Heaney-Graham",
+        "email": "Pierce.Grimes46@yahoo.com"
+      },
+      {
+        "name": "Jordan Stamm",
+        "email": "Deonte_Huels@gmail.com"
+      },
+      {
+        "name": "Howard Gerhold",
+        "email": "Rickie_Mante75@gmail.com"
+      },
+      {
+        "name": "Matthew Wilderman",
+        "email": "Glennie_Frami55@gmail.com"
+      },
+      {
+        "name": "Garry Marquardt",
+        "email": "Vernice_Daniel88@gmail.com"
+      },
+      {
+        "name": "Hilda Stracke",
+        "email": "Ophelia.Rogahn78@hotmail.com"
+      },
+      {
+        "name": "Bessie Schumm",
+        "email": "Bennett.Wisoky42@hotmail.com"
+      },
+      {
+        "name": "Angelina Wunsch DDS",
+        "email": "Melisa_Krajcik@hotmail.com"
+      },
+      {
+        "name": "Lorene Gibson",
+        "email": "Hershel49@hotmail.com"
+      },
+      {
+        "name": "Ellis Kunze II",
+        "email": "Amelie_Dickinson@yahoo.com"
+      },
+      {
+        "name": "Moses Beier",
+        "email": "Lilliana_Ruecker23@hotmail.com"
+      },
+      {
+        "name": "Stella Emmerich",
+        "email": "Moshe.Kunze@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 12",
+    "instructor": "Byron Schumm",
+    "description": "Earum alienus animadverto adinventitias sui adstringo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=1848020595376128",
+    "duration": "8 weeks",
+    "schedule": "Mon",
+    "location": "35953 Cora Harbor, Stonebury",
+    "prerequisites": [
+      "truculenter",
+      "denuo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "toties defero velit",
+        "content": "Quis arbor cura vinco distinctio. Ciminatio absconditus utrimque. Stipes claudeo accommodo comis tibi advenio rem sortitus."
+      },
+      {
+        "week": 2,
+        "topic": "velit ipsam vado",
+        "content": "Commodo teres vero aqua aer. Cupio tergiversatio claudeo molestias. Tergiversatio curatio comparo voluptatibus atque amissio calculus beatae bestia sollers."
+      }
+    ],
+    "students": [
+      {
+        "name": "Angelina Durgan",
+        "email": "Durward72@gmail.com"
+      },
+      {
+        "name": "Mrs. Leticia Boyer DDS",
+        "email": "Dylan_Morissette@yahoo.com"
+      },
+      {
+        "name": "Leigh Orn PhD",
+        "email": "Hilario.Weissnat22@gmail.com"
+      },
+      {
+        "name": "Franklin Wilkinson IV",
+        "email": "Nakia.Will@gmail.com"
+      },
+      {
+        "name": "Miranda Dickens",
+        "email": "Dominic62@hotmail.com"
+      },
+      {
+        "name": "Dr. Nathan Flatley",
+        "email": "Tristin.Roberts@gmail.com"
+      },
+      {
+        "name": "Marguerite Kihn",
+        "email": "Oral39@gmail.com"
+      },
+      {
+        "name": "Jan Bosco-Dach",
+        "email": "Dylan_Franey72@hotmail.com"
+      },
+      {
+        "name": "Deborah Turcotte III",
+        "email": "Tre_Quigley64@gmail.com"
+      },
+      {
+        "name": "Ora Lebsack-Adams I",
+        "email": "Blanca.Hagenes52@gmail.com"
+      },
+      {
+        "name": "Terrence Altenwerth-Kreiger",
+        "email": "Lera.Altenwerth@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 13",
+    "instructor": "Jose Bosco",
+    "description": "Demitto delibero ventito antepono triumphus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/4zif6Ar/640/480",
+    "duration": "9 weeks",
+    "schedule": "Wed",
+    "location": "638 Hammes Ville, South Elody",
+    "prerequisites": [
+      "venustas",
+      "laudantium"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "adsum valde corroboro",
+        "content": "Cogito video aetas laborum velociter corrigo quae damnatio. Defluo communis sperno terreo. Aperte consuasor terra aro usitas solvo."
+      },
+      {
+        "week": 2,
+        "topic": "soleo deputo terreo",
+        "content": "Tergeo bis cultellus vacuus torqueo umquam debitis sumptus bardus. Sponte villa sopor statim nemo thesaurus abutor tamdiu. Repellendus iure ara."
+      }
+    ],
+    "students": [
+      {
+        "name": "Heather Abshire",
+        "email": "Noemi.Greenholt@hotmail.com"
+      },
+      {
+        "name": "Nicholas Rowe",
+        "email": "Kyra_Hamill@hotmail.com"
+      },
+      {
+        "name": "Bertha Schuster",
+        "email": "Magdalena.Kemmer@gmail.com"
+      },
+      {
+        "name": "Alberta Rohan III",
+        "email": "Berenice85@yahoo.com"
+      },
+      {
+        "name": "Brian Franey MD",
+        "email": "Chet.Stokes-Batz@gmail.com"
+      },
+      {
+        "name": "Joey Lynch",
+        "email": "Bruce47@yahoo.com"
+      },
+      {
+        "name": "Russell Kreiger",
+        "email": "Alejandrin.Thiel8@gmail.com"
+      },
+      {
+        "name": "Stuart Weimann",
+        "email": "Aryanna_Wehner78@hotmail.com"
+      },
+      {
+        "name": "Tommie Ward V",
+        "email": "Kasandra.Lockman68@yahoo.com"
+      },
+      {
+        "name": "Wallace Kulas",
+        "email": "Randall_Aufderhar@gmail.com"
+      },
+      {
+        "name": "Mr. Jeff Kuhlman",
+        "email": "Cary.Aufderhar-Halvorson4@gmail.com"
+      },
+      {
+        "name": "Thelma Haley",
+        "email": "Nathanael_Pacocha@gmail.com"
+      },
+      {
+        "name": "Wendell Runte-Rogahn",
+        "email": "Madalyn_Marquardt@hotmail.com"
+      },
+      {
+        "name": "Rene Senger",
+        "email": "Iliana.Waters@hotmail.com"
+      },
+      {
+        "name": "Gregory Gleichner",
+        "email": "Janick.Smitham@hotmail.com"
+      },
+      {
+        "name": "Martha Mante",
+        "email": "Carleton97@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 14",
+    "instructor": "Dixie Jacobson",
+    "description": "Dedico conor combibo cibo sunt.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/kjAH4joA1/640/480",
+    "duration": "4 weeks",
+    "schedule": "Sun",
+    "location": "2186 Weber Track, Chico",
+    "prerequisites": [
+      "amo",
+      "vesco"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "ambitus alveus velit",
+        "content": "Tonsor accedo similique vulpes claudeo socius thalassinus capillus bos reiciendis. Tempora terra bis doloremque. Cruciamentum concedo nostrum cultura cado versus deprecator depromo inventore."
+      },
+      {
+        "week": 2,
+        "topic": "bardus eveniet culpa",
+        "content": "Adeptio canto accommodo officia suffragium crudelis vel dedico. Ago admitto balbus catena. Constans earum repellat."
+      },
+      {
+        "week": 3,
+        "topic": "concedo teneo vomito",
+        "content": "Cattus derelinquo defetiscor. Comedo admoveo corrumpo repellat ubi bis vere desino titulus. Ulciscor acerbitas arbor spero degenero trucido accedo tricesimus nulla."
+      }
+    ],
+    "students": [
+      {
+        "name": "Jaime Rippin",
+        "email": "Vada96@hotmail.com"
+      },
+      {
+        "name": "Misty Parisian",
+        "email": "Madisen17@gmail.com"
+      },
+      {
+        "name": "Janie VonRueden",
+        "email": "Holly_Feeney@gmail.com"
+      },
+      {
+        "name": "Carlos Gutmann",
+        "email": "Alessandro_Cremin-Lakin9@gmail.com"
+      },
+      {
+        "name": "Dan Rogahn",
+        "email": "Raoul87@yahoo.com"
+      },
+      {
+        "name": "Cora Barton",
+        "email": "Minnie.Klocko@hotmail.com"
+      },
+      {
+        "name": "Eleanor Quitzon",
+        "email": "Karine89@gmail.com"
+      },
+      {
+        "name": "Henry Schmitt",
+        "email": "Mya15@hotmail.com"
+      },
+      {
+        "name": "Chris Cremin",
+        "email": "Madeline_Lowe@gmail.com"
+      },
+      {
+        "name": "Jo Prosacco",
+        "email": "Rasheed.Hodkiewicz@gmail.com"
+      },
+      {
+        "name": "Stacey Mante MD",
+        "email": "Ruthe_Moore@yahoo.com"
+      },
+      {
+        "name": "Elisa Corkery",
+        "email": "Shaina_Heathcote8@gmail.com"
+      },
+      {
+        "name": "Leonard Quitzon",
+        "email": "Keven.Kulas19@hotmail.com"
+      },
+      {
+        "name": "Sonja Wehner",
+        "email": "Ruth.Shanahan3@yahoo.com"
+      },
+      {
+        "name": "Wilma Cronin",
+        "email": "Leopold18@yahoo.com"
+      },
+      {
+        "name": "Nancy Keebler",
+        "email": "Ozella.Kuhlman@hotmail.com"
+      },
+      {
+        "name": "Harvey Gerlach",
+        "email": "Cali30@hotmail.com"
+      },
+      {
+        "name": "Mrs. Kristie Ernser",
+        "email": "Reese.Cremin@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 15",
+    "instructor": "Douglas Oberbrunner",
+    "description": "Fuga degero cursus tergiversatio agnitio templum quisquam.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=4988494080376832",
+    "duration": "5 weeks",
+    "schedule": "Mon",
+    "location": "924 Kiarra Extensions, West Tobinville",
+    "prerequisites": [
+      "aedificium",
+      "addo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "theologus timor expedita",
+        "content": "Subvenio quasi totus ante crebro vado. Hic confero et cognomen. Suppono vomer decipio aufero commemoro dicta."
+      }
+    ],
+    "students": [
+      {
+        "name": "Ismael Miller",
+        "email": "Richard.Koepp@gmail.com"
+      },
+      {
+        "name": "Marty Haag",
+        "email": "Cristobal_Shanahan67@gmail.com"
+      },
+      {
+        "name": "Ms. Patricia Schroeder",
+        "email": "Lourdes_Daugherty35@hotmail.com"
+      },
+      {
+        "name": "Mr. Kevin Auer",
+        "email": "Chandler.Bogan@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 16",
+    "instructor": "Dawn Fay",
+    "description": "Quibusdam adamo debitis volva delicate accusamus thorax compello absorbeo adaugeo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=8960348482699264",
+    "duration": "9 weeks",
+    "schedule": "Mon",
+    "location": "5075 Ferry Road, Lake Jessie",
+    "prerequisites": [
+      "attollo",
+      "acsi"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "celer omnis beatae",
+        "content": "Tardus termes bibo vester harum unus trucido consequuntur. Tollo demitto non. Abundans tenuis adulescens."
+      }
+    ],
+    "students": [
+      {
+        "name": "Carrie Hudson",
+        "email": "Izabella.Ortiz@yahoo.com"
+      },
+      {
+        "name": "Alma Heaney PhD",
+        "email": "Reyes_Brekke@gmail.com"
+      },
+      {
+        "name": "Mr. Kristopher Satterfield",
+        "email": "Lucienne.Jenkins78@yahoo.com"
+      },
+      {
+        "name": "Ms. Christina Aufderhar",
+        "email": "Wilford_Bins68@gmail.com"
+      },
+      {
+        "name": "Wayne Jerde",
+        "email": "Josephine90@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 17",
+    "instructor": "Taylor Runte",
+    "description": "Voluptatum suscipit demergo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=5663684655316992",
+    "duration": "8 weeks",
+    "schedule": "Sun",
+    "location": "3716 Valley Road, Virgilburgh",
+    "prerequisites": [
+      "pariatur",
+      "bellicus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "bardus cum textilis",
+        "content": "Cimentarius vigilo amoveo sulum abeo brevis credo cogito tersus. Tendo vilicus corona tenuis eligendi. Vilicus amicitia subiungo viscus vorax."
+      },
+      {
+        "week": 2,
+        "topic": "circumvenio aestus debitis",
+        "content": "Desparatus suscipio tenuis. Deinde voluptates alias antea tollo pectus quae terra vomer. Surgo animi balbus arca caput tripudio vix comburo coruscus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Nora Shanahan",
+        "email": "Orie_Kemmer15@hotmail.com"
+      },
+      {
+        "name": "Irving Sawayn Jr.",
+        "email": "Jed31@gmail.com"
+      },
+      {
+        "name": "Jean O'Conner",
+        "email": "Kasey_Kilback37@yahoo.com"
+      },
+      {
+        "name": "Orville Schmeler",
+        "email": "Reyes.Harber@hotmail.com"
+      },
+      {
+        "name": "Lois Abshire DDS",
+        "email": "Maverick81@yahoo.com"
+      },
+      {
+        "name": "Jessie Koch",
+        "email": "Myles.Stamm96@yahoo.com"
+      },
+      {
+        "name": "Dr. Glen Beier",
+        "email": "Marjolaine66@yahoo.com"
+      },
+      {
+        "name": "Lola Blanda-Cassin",
+        "email": "Tobin61@yahoo.com"
+      },
+      {
+        "name": "Brandi Batz",
+        "email": "Elian.Reichert-Wuckert95@hotmail.com"
+      },
+      {
+        "name": "Mae Johnson Sr.",
+        "email": "Nellie.Lehner@hotmail.com"
+      },
+      {
+        "name": "Bridget Von",
+        "email": "Torrey.Willms@hotmail.com"
+      },
+      {
+        "name": "Charlie Gislason",
+        "email": "Dayna45@hotmail.com"
+      },
+      {
+        "name": "Donna Kessler",
+        "email": "Winfield_Borer@yahoo.com"
+      },
+      {
+        "name": "Ms. Juana Carter",
+        "email": "Junius72@hotmail.com"
+      },
+      {
+        "name": "Lillie Hagenes DVM",
+        "email": "Cleve25@gmail.com"
+      },
+      {
+        "name": "Miss Nicole Goldner",
+        "email": "Pattie3@gmail.com"
+      },
+      {
+        "name": "Katherine Stokes",
+        "email": "Ulices.Schowalter@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 18",
+    "instructor": "Armando Parisian",
+    "description": "Stabilis victus virgo cerno catena cubicularis tamen benigne.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=7152549610127360",
+    "duration": "3 weeks",
+    "schedule": "Mon",
+    "location": "9451 McCullough Mountains, West Nella",
+    "prerequisites": [
+      "fugiat",
+      "ante"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "curriculum supplanto non",
+        "content": "Cultura tum creta pauci absque comprehendo corrupti assentator paens. Cunae tergum colo tego arceo. Virga coadunatio concido annus demonstro absum recusandae contra beneficium."
+      },
+      {
+        "week": 2,
+        "topic": "capillus velociter ipsam",
+        "content": "Celo amet contigo clamo tres. Aestus sursum sortitus spoliatio tero deserunt considero. Abscido dolorum delibero architecto ventosus carus."
+      },
+      {
+        "week": 3,
+        "topic": "angustus fuga cibo",
+        "content": "Spectaculum ab denego spes. Cohaero cras thesaurus. Tendo crux votum demulceo amor conatus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Edgar Hauck",
+        "email": "Harrison.Rath@yahoo.com"
+      },
+      {
+        "name": "Caroline Murazik",
+        "email": "Thad_Zboncak66@hotmail.com"
+      },
+      {
+        "name": "Tim Reinger",
+        "email": "Robbie_Kohler86@hotmail.com"
+      },
+      {
+        "name": "Pearl Cartwright",
+        "email": "Lon76@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 19",
+    "instructor": "Stacy Hessel",
+    "description": "Laudantium civis patria illum sonitus terga claro.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=4062785579253760",
+    "duration": "9 weeks",
+    "schedule": "Fri",
+    "location": "9000 S Main Street, Saviontown",
+    "prerequisites": [
+      "occaecati",
+      "venio"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "claro alioqui adulatio",
+        "content": "Deputo vomito aequitas tricesimus dens speculum adhuc tenetur reprehenderit. Aedificium sequi pel mollitia demitto alienus nisi aliqua adflicto clamo. Alveus sui carcer video alo tumultus tredecim et."
+      }
+    ],
+    "students": [
+      {
+        "name": "Carole Emmerich",
+        "email": "Jaeden_Hagenes@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 20",
+    "instructor": "Hattie Olson",
+    "description": "Culpo amplus tredecim conventus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=3593500853534720",
+    "duration": "2 weeks",
+    "schedule": "Sun",
+    "location": "749 Kuvalis Mountains, Hattiesburg",
+    "prerequisites": [
+      "explicabo",
+      "defleo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "tum nihil talus",
+        "content": "Laboriosam voveo vobis nihil totidem tondeo. Viriliter arcesso voluptate vicinus. Thymum super sollers pecco vicissitudo verecundia."
+      },
+      {
+        "week": 2,
+        "topic": "condico corona tamdiu",
+        "content": "Audax tolero uberrime tergum appositus. Soleo arbitro adeo tres uterque tabesco provident conqueror color perspiciatis. Territo adaugeo adhuc coruscus vel ipsum aestus."
+      },
+      {
+        "week": 3,
+        "topic": "qui antea confugo",
+        "content": "Concido talus convoco cornu avaritia tui suppono. Assentator collum ventus. Maxime subnecto complectus tabella aeternus vigilo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Wilbur Becker",
+        "email": "Deshawn.Collins@yahoo.com"
+      },
+      {
+        "name": "Micheal Mohr",
+        "email": "Johan_Pacocha@gmail.com"
+      },
+      {
+        "name": "Juan Rice",
+        "email": "Dasia.Halvorson@gmail.com"
+      },
+      {
+        "name": "Harriet Will",
+        "email": "Emilie56@yahoo.com"
+      },
+      {
+        "name": "Janie Ledner",
+        "email": "Lilly_Koch71@hotmail.com"
+      },
+      {
+        "name": "Amy Ankunding",
+        "email": "Eliseo_Lowe4@gmail.com"
+      },
+      {
+        "name": "Connie Beier",
+        "email": "Ova.Nolan87@yahoo.com"
+      },
+      {
+        "name": "Herbert Schowalter",
+        "email": "Roderick_Metz84@hotmail.com"
+      },
+      {
+        "name": "Miss Carmen Zemlak",
+        "email": "Guiseppe_Block@yahoo.com"
+      },
+      {
+        "name": "Mr. Randal Price",
+        "email": "Madalyn.Adams@hotmail.com"
+      },
+      {
+        "name": "Samantha Kihn",
+        "email": "Virginia_Daugherty67@gmail.com"
+      },
+      {
+        "name": "Nicolas Jacobson",
+        "email": "Emmie_Boyer33@hotmail.com"
+      },
+      {
+        "name": "Lana Emmerich",
+        "email": "Jadon23@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 21",
+    "instructor": "Constance Roberts",
+    "description": "Coruscus aedificium tandem defungo comparo aufero.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=817872163045376",
+    "duration": "4 weeks",
+    "schedule": "Thu",
+    "location": "3895 Lera Land, Euless",
+    "prerequisites": [
+      "sperno",
+      "ascit"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "arcesso cras desolo",
+        "content": "Esse vinco canis molestias dedecor deleniti ultra aedificium. Doloremque cena inventore arcesso aut. Caterva averto ars crinis adamo speciosus quos."
+      },
+      {
+        "week": 2,
+        "topic": "curiositas super thymum",
+        "content": "Utilis cupiditas utrum. Usitas patruus vorago tenetur eos vere ambulo officiis vestrum. Acidus delinquo tremo demergo pauper suffragium."
+      },
+      {
+        "week": 3,
+        "topic": "clam coadunatio ultra",
+        "content": "Verus condico cilicium iusto tracto thesis convoco ter textilis. Caste antepono auctus. Desipio blandior aperio vulgo defungo patrocinor."
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss Leticia McKenzie",
+        "email": "Montana29@hotmail.com"
+      },
+      {
+        "name": "Russell Willms",
+        "email": "Chelsea9@gmail.com"
+      },
+      {
+        "name": "Phil Nikolaus",
+        "email": "Yasmeen.Goldner@yahoo.com"
+      },
+      {
+        "name": "Betsy Balistreri V",
+        "email": "Kimberly70@hotmail.com"
+      },
+      {
+        "name": "Robert Mosciski V",
+        "email": "Khalid.Quitzon@gmail.com"
+      },
+      {
+        "name": "Philip Zemlak",
+        "email": "Reuben_Schroeder@gmail.com"
+      },
+      {
+        "name": "Erma Ratke",
+        "email": "Vance68@hotmail.com"
+      },
+      {
+        "name": "Dexter Welch",
+        "email": "Karianne53@gmail.com"
+      },
+      {
+        "name": "Amy Nikolaus",
+        "email": "Macey59@yahoo.com"
+      },
+      {
+        "name": "Irene Schmidt",
+        "email": "Gloria.Nienow61@hotmail.com"
+      },
+      {
+        "name": "Myrtle Hirthe",
+        "email": "Noelia_Dooley@gmail.com"
+      },
+      {
+        "name": "Stephen Maggio",
+        "email": "Benjamin.Wintheiser@gmail.com"
+      },
+      {
+        "name": "Olive Windler",
+        "email": "Thora71@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 22",
+    "instructor": "Albert Legros",
+    "description": "Officia argentum collum sufficio cui denego tristis.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=6945105986453504",
+    "duration": "6 weeks",
+    "schedule": "Wed",
+    "location": "445 Kovacek Prairie, South Hanna",
+    "prerequisites": [
+      "viriliter",
+      "titulus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "tunc aveho vindico",
+        "content": "Aduro cado dedico vorax corrigo theologus socius tamen arcus. Acsi defaeco arcus. Arcesso accedo molestias summisse apto damnatio sono adulatio ara cupio."
+      }
+    ],
+    "students": [
+      {
+        "name": "Pablo Gutmann",
+        "email": "Shannon.Mertz5@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 23",
+    "instructor": "Eric McCullough",
+    "description": "Supplanto depraedor audax amplus creator defetiscor.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/mevaL4B/640/480",
+    "duration": "8 weeks",
+    "schedule": "Mon",
+    "location": "79862 Ward Loop, Pharr",
+    "prerequisites": [
+      "conduco",
+      "ratione"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "adulatio administratio vesica",
+        "content": "Denuncio audeo vulgus voro dapifer fugit carus reprehenderit approbo. Subito laudantium cultellus. Esse iusto delibero tenuis."
+      },
+      {
+        "week": 2,
+        "topic": "arto chirographum canonicus",
+        "content": "Pel demonstro tyrannus tamisium. Aqua velociter demum blandior at dolores compello sonitus. Desparatus stultus atque colo deporto corrigo decet constans coma."
+      },
+      {
+        "week": 3,
+        "topic": "casus adficio totus",
+        "content": "Iste aliquam aeger occaecati bellum sto conitor infit. Abbas maiores decretum adaugeo. Acceptus considero teres maxime."
+      }
+    ],
+    "students": [
+      {
+        "name": "Brett Leannon",
+        "email": "Alexis10@yahoo.com"
+      },
+      {
+        "name": "Felix Feil",
+        "email": "Mariane.Kuvalis98@gmail.com"
+      },
+      {
+        "name": "Ellis Leannon",
+        "email": "Krystel.Sanford@gmail.com"
+      },
+      {
+        "name": "Brent Bartell",
+        "email": "Jon.Lebsack44@yahoo.com"
+      },
+      {
+        "name": "Jake Marquardt",
+        "email": "Rosalyn49@gmail.com"
+      },
+      {
+        "name": "Christian Yost",
+        "email": "Don.Borer@hotmail.com"
+      },
+      {
+        "name": "Cindy Rosenbaum",
+        "email": "Boris_Ward@yahoo.com"
+      },
+      {
+        "name": "Dustin Armstrong",
+        "email": "Jessy.Hand34@gmail.com"
+      },
+      {
+        "name": "Adrienne Blick DDS",
+        "email": "Thad.Ritchie77@hotmail.com"
+      },
+      {
+        "name": "Edna Cormier",
+        "email": "Jackeline.Donnelly7@hotmail.com"
+      },
+      {
+        "name": "Dewey Kessler",
+        "email": "Wendy.Pfannerstill@yahoo.com"
+      },
+      {
+        "name": "Elisa Pagac",
+        "email": "Oral.Bode-Johns@yahoo.com"
+      },
+      {
+        "name": "Emma Senger",
+        "email": "Ashlynn.Sauer@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 24",
+    "instructor": "Faye Christiansen",
+    "description": "Contigo desipio et apostolus convoco.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/qcQlgn/640/480",
+    "duration": "0 weeks",
+    "schedule": "Sat",
+    "location": "81983 Railway Street, Saraiville",
+    "prerequisites": [
+      "temeritas",
+      "stillicidium"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "exercitationem terminatio volva",
+        "content": "Celo repudiandae synagoga natus defetiscor tremo vir animi ambulo defungo. Bonus vita aegre vorax vesica comis colligo. Varius absque cuius supra minus taceo corporis."
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss Carole Bergstrom",
+        "email": "Edmund_Bruen@yahoo.com"
+      },
+      {
+        "name": "Samantha Padberg",
+        "email": "Antonia_Heller99@hotmail.com"
+      },
+      {
+        "name": "Edmund Kilback",
+        "email": "Maybell.Hagenes@hotmail.com"
+      },
+      {
+        "name": "Brooke Beer",
+        "email": "Jamar.Bode@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 25",
+    "instructor": "Marco Lebsack",
+    "description": "Contabesco atrocitas adiuvo totus subnecto complectus victus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/FaZl4t/640/480",
+    "duration": "3 weeks",
+    "schedule": "Mon",
+    "location": "63432 Quinten Meadows, Vandervortberg",
+    "prerequisites": [
+      "sapiente",
+      "caput"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "umbra vos quaerat",
+        "content": "Paens amplitudo vester argumentum trado averto degusto. Minus recusandae tenax viduo carbo abundans vilitas tergo. Tot id confido vaco triduana vox corrupti terminatio."
+      },
+      {
+        "week": 2,
+        "topic": "consequuntur aiunt apostolus",
+        "content": "Tantum tribuo calco vulgaris adulatio victus votum alveus. Cubicularis vesper conventus capto custodia cognomen advoco coniecto utilis velociter. Cras creta substantia vox veritatis cado amitto somnus accedo ulterius."
+      },
+      {
+        "week": 3,
+        "topic": "summopere corpus vereor",
+        "content": "Dolorum sumptus alii nostrum debilito abscido. Culpa carcer denuncio bellicus. Utpote theologus colligo anser defungo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mike Mueller",
+        "email": "Lilly_Fadel14@hotmail.com"
+      },
+      {
+        "name": "Jo Glover",
+        "email": "Florida.Quigley@yahoo.com"
+      },
+      {
+        "name": "Neal Rippin I",
+        "email": "Emmanuel.Marquardt@hotmail.com"
+      },
+      {
+        "name": "Edna Walter DVM",
+        "email": "Dereck_Rohan24@hotmail.com"
+      },
+      {
+        "name": "Herman Huel",
+        "email": "Kyleigh10@hotmail.com"
+      },
+      {
+        "name": "Garrett Leffler",
+        "email": "Regan46@gmail.com"
+      },
+      {
+        "name": "Garrett Becker",
+        "email": "Elenora_Kutch@gmail.com"
+      },
+      {
+        "name": "Kristi Hauck",
+        "email": "Clarabelle51@hotmail.com"
+      },
+      {
+        "name": "Wallace Daugherty",
+        "email": "Rubie_Kilback@gmail.com"
+      },
+      {
+        "name": "Corey Kerluke",
+        "email": "Cali.Maggio51@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 26",
+    "instructor": "Winston Frami",
+    "description": "Volo distinctio demum vito cumque asporto suppellex ustulo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/xqsKuU9Dd/640/480",
+    "duration": "0 weeks",
+    "schedule": "Sun",
+    "location": "5034 Locust Street, Hassanburgh",
+    "prerequisites": [
+      "cupio",
+      "aegre"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "verus cupio velut",
+        "content": "Vox facere utpote custodia. Conqueror acsi totus clam carbo communis. Conturbo vulgo ubi demulceo suspendo comes cedo titulus aeneus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Theresa Raynor",
+        "email": "Lucas32@hotmail.com"
+      },
+      {
+        "name": "Cory O'Conner PhD",
+        "email": "Danika.Volkman45@yahoo.com"
+      },
+      {
+        "name": "Jermaine Anderson",
+        "email": "Michaela.Leannon@yahoo.com"
+      },
+      {
+        "name": "Kristi Ziemann II",
+        "email": "Orville_Herman93@hotmail.com"
+      },
+      {
+        "name": "Alfred Botsford",
+        "email": "Pat91@hotmail.com"
+      },
+      {
+        "name": "Dawn Hoppe",
+        "email": "Jaquelin.Kertzmann@hotmail.com"
+      },
+      {
+        "name": "Dianna Rau",
+        "email": "Onie_Kling5@gmail.com"
+      },
+      {
+        "name": "Rodney O'Hara",
+        "email": "Terence46@gmail.com"
+      },
+      {
+        "name": "Mathew Jerde",
+        "email": "Hiram5@yahoo.com"
+      },
+      {
+        "name": "Dr. Billy Block",
+        "email": "Josefa42@yahoo.com"
+      },
+      {
+        "name": "Arturo Prohaska",
+        "email": "Magali.Blanda71@hotmail.com"
+      },
+      {
+        "name": "Teri Weissnat",
+        "email": "Gudrun.Pfannerstill@gmail.com"
+      },
+      {
+        "name": "Paula Bogan",
+        "email": "Dewayne82@hotmail.com"
+      },
+      {
+        "name": "Clay Farrell-Orn",
+        "email": "Levi69@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 27",
+    "instructor": "Casey Collins",
+    "description": "Xiphias thesis sulum.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/6WS6r4Zo0V/640/480",
+    "duration": "3 weeks",
+    "schedule": "Sun",
+    "location": "3804 George Street, North Charleston",
+    "prerequisites": [
+      "copiose",
+      "aggredior"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "expedita vespillo sequi",
+        "content": "Vulgus vulnus balbus verecundia. Angulus nesciunt delectus trado ulciscor. Utique consequuntur ventosus tam causa."
+      },
+      {
+        "week": 2,
+        "topic": "allatus reprehenderit solum",
+        "content": "Delectatio talis vado natus alius comburo vinum appono aveho voluptates. Labore ea capto ubi qui illum deorsum. Viriliter via vomer adeo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Kevin Torphy IV",
+        "email": "Winnifred.Robel@yahoo.com"
+      },
+      {
+        "name": "Raul Schowalter",
+        "email": "Gianni82@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 28",
+    "instructor": "Leroy Runolfsson",
+    "description": "Viscus arceo dens utpote suppellex verbera ater doloremque.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/QvtgG/640/480",
+    "duration": "3 weeks",
+    "schedule": "Mon",
+    "location": "7295 Hattie Trace, Bertabury",
+    "prerequisites": [
+      "celebrer",
+      "subnecto"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "volup adfero cavus",
+        "content": "Corroboro adhaero accusamus. Tutamen vindico contigo cenaculum audentia vociferor amplitudo custodia conturbo. Pauper asperiores ver caput campana succurro."
+      }
+    ],
+    "students": [
+      {
+        "name": "Victoria Krajcik I",
+        "email": "Noelia44@hotmail.com"
+      },
+      {
+        "name": "Mr. Raul Schultz DVM",
+        "email": "Marques.Wunsch@yahoo.com"
+      },
+      {
+        "name": "Lamar Boyle",
+        "email": "Jacynthe90@hotmail.com"
+      },
+      {
+        "name": "Mr. Pat Rolfson",
+        "email": "Candelario16@yahoo.com"
+      },
+      {
+        "name": "Meredith Goldner",
+        "email": "Violet.Fay@gmail.com"
+      },
+      {
+        "name": "Dorothy Anderson",
+        "email": "Jaunita.Brekke@hotmail.com"
+      },
+      {
+        "name": "Lindsay Wisozk-Schneider",
+        "email": "Lamar.Lebsack98@yahoo.com"
+      },
+      {
+        "name": "Dixie Herman",
+        "email": "Felicia.Balistreri90@yahoo.com"
+      },
+      {
+        "name": "Alyssa Sporer",
+        "email": "Hermina9@yahoo.com"
+      },
+      {
+        "name": "Lorene Herzog",
+        "email": "Jewell95@gmail.com"
+      },
+      {
+        "name": "Marion Schaefer",
+        "email": "Alycia33@gmail.com"
+      },
+      {
+        "name": "Kathy Barton",
+        "email": "Rick.Crist59@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 29",
+    "instructor": "Drew Schmidt V",
+    "description": "Caecus dens atrocitas trucido tamen unde cicuta congregatio.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/U9yf6R8/640/480",
+    "duration": "8 weeks",
+    "schedule": "Sat",
+    "location": "813 E Bridge Street, Lednerboro",
+    "prerequisites": [
+      "absque",
+      "creta"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "vero tabula averto",
+        "content": "Calculus defaeco venia coepi candidus coaegresco testimonium vado iste circumvenio. Quibusdam arx adversus cubo alioqui curia thermae adipisci abutor. Cruciamentum arcus asper."
+      },
+      {
+        "week": 2,
+        "topic": "cuius curriculum confugo",
+        "content": "Utpote vetus agnitio ambulo attonbitus vir. Textus calco veniam voluptate decor sublime. Amitto auxilium cibus communis conventus ad."
+      },
+      {
+        "week": 3,
+        "topic": "amoveo cervus sum",
+        "content": "At adsuesco una torqueo optio tergiversatio molestiae crepusculum sperno. Tener laudantium urbs taedium. Coepi amo corrigo adimpleo expedita."
+      }
+    ],
+    "students": [
+      {
+        "name": "Santos Herman",
+        "email": "Chyna_Schmidt97@yahoo.com"
+      },
+      {
+        "name": "Clifton Balistreri",
+        "email": "Rylan.Smith@gmail.com"
+      },
+      {
+        "name": "Patti Nicolas V",
+        "email": "Andreane.Mante16@hotmail.com"
+      },
+      {
+        "name": "Nathan Rutherford",
+        "email": "Casandra.Mante21@yahoo.com"
+      },
+      {
+        "name": "Bonnie Gibson",
+        "email": "Willow_Kuhic85@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 30",
+    "instructor": "Wilma Satterfield",
+    "description": "Corroboro thorax torqueo caecus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=2148506921861120",
+    "duration": "9 weeks",
+    "schedule": "Sun",
+    "location": "713 Hudson Run, Lake Lexiburgh",
+    "prerequisites": [
+      "vitiosus",
+      "tabella"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "et advoco contigo",
+        "content": "Numquam ullam concedo vox vae. Commodi tenuis tamen aedificium cogo itaque curiositas necessitatibus. Cometes magnam eaque vestrum tego repellendus decet paens tracto spero."
+      }
+    ],
+    "students": [
+      {
+        "name": "Dr. Edward Shields",
+        "email": "Jerrell32@hotmail.com"
+      },
+      {
+        "name": "Willie Yundt",
+        "email": "Deshawn_Mraz@yahoo.com"
+      },
+      {
+        "name": "Jeffery Gutkowski-Schuster",
+        "email": "Rosanna_Zulauf@gmail.com"
+      },
+      {
+        "name": "Mary Brakus",
+        "email": "Frederic.Mueller44@gmail.com"
+      },
+      {
+        "name": "Gerardo Cassin",
+        "email": "Cortney2@gmail.com"
+      },
+      {
+        "name": "Kathy Mitchell DDS",
+        "email": "Salma_Wilkinson@hotmail.com"
+      },
+      {
+        "name": "Frederick Weimann",
+        "email": "Mayra46@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 31",
+    "instructor": "Eileen Dooley",
+    "description": "Vitae verto usque uberrime tenax officia dolorum.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/y3XJg/640/480",
+    "duration": "7 weeks",
+    "schedule": "Sat",
+    "location": "3096 E 6th Avenue, St. Cloud",
+    "prerequisites": [
+      "nulla",
+      "pecto"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "compono abbas conturbo",
+        "content": "Timidus eligendi tabernus aqua aqua aeneus. Spiritus cicuta tergo copiose tibi cura amplus bonus delinquo. Credo sulum ventus aggero tricesimus termes."
+      }
+    ],
+    "students": [
+      {
+        "name": "Karen Mante",
+        "email": "Rachelle49@hotmail.com"
+      },
+      {
+        "name": "Pablo Hayes",
+        "email": "Marguerite_Lakin@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 32",
+    "instructor": "Rex Zemlak",
+    "description": "Reiciendis deprecator utroque decens decipio comitatus claudeo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=4291142061391872",
+    "duration": "7 weeks",
+    "schedule": "Thu",
+    "location": "2787 Farrell Mountains, Rathstad",
+    "prerequisites": [
+      "clementia",
+      "auctor"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "defleo amplus temeritas",
+        "content": "Verto coniuratio consectetur solio sublime civis coniecto corrigo valde. Ver suspendo patior aurum subseco arbustum delego uterque. Video maiores assumenda crustulum super cohibeo adipiscor tamdiu."
+      },
+      {
+        "week": 2,
+        "topic": "facilis tabgo quis",
+        "content": "Antepono crapula curto fuga tamdiu caute utrimque quas tendo. Votum volaticus sustineo tener averto. Ars cibus beneficium."
+      },
+      {
+        "week": 3,
+        "topic": "summisse audentia pecus",
+        "content": "Adflicto tergum tantum balbus vox ullus culpo. Qui vae verbera ventosus somniculosus annus curatio tabernus. Vero defleo cupiditas ventus urbanus cubo ambitus certus claudeo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mrs. Vanessa Hane-Blanda",
+        "email": "Macey55@hotmail.com"
+      },
+      {
+        "name": "Loretta Kovacek",
+        "email": "Emma.Waters-Tromp42@hotmail.com"
+      },
+      {
+        "name": "Jenny Hintz",
+        "email": "Fern.Morissette13@hotmail.com"
+      },
+      {
+        "name": "Arlene Stroman",
+        "email": "Clinton43@gmail.com"
+      },
+      {
+        "name": "Bradford Schmidt DDS",
+        "email": "Leonel_Botsford11@gmail.com"
+      },
+      {
+        "name": "Carmen Carroll",
+        "email": "Fredy16@hotmail.com"
+      },
+      {
+        "name": "Jackie Skiles",
+        "email": "Colin_Roberts27@gmail.com"
+      },
+      {
+        "name": "Omar Walker",
+        "email": "Roberta12@yahoo.com"
+      },
+      {
+        "name": "Erika Dare",
+        "email": "Ellie.Wintheiser@yahoo.com"
+      },
+      {
+        "name": "Spencer Dare DDS",
+        "email": "Vincent.Auer-Schinner51@yahoo.com"
+      },
+      {
+        "name": "Randal Borer DVM",
+        "email": "Linnie_Funk92@gmail.com"
+      },
+      {
+        "name": "Alberta Pouros-O'Keefe IV",
+        "email": "Anibal15@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 33",
+    "instructor": "Ana Lang",
+    "description": "Adsidue arx cerno velum vinculum admitto suadeo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=3848912257417216",
+    "duration": "6 weeks",
+    "schedule": "Thu",
+    "location": "4456 Mose Bridge, Jacksonville",
+    "prerequisites": [
+      "deludo",
+      "itaque"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "somnus stultus vulgus",
+        "content": "Volubilis copia stipes veritatis magni demitto concedo facere decor. Theologus colo defaeco ducimus vilicus alveus ulciscor fugit cogito subvenio. Quaerat confido versus absens infit ad illum praesentium creo terreo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Joe Senger",
+        "email": "Carol.Franey@hotmail.com"
+      },
+      {
+        "name": "Shari Kautzer",
+        "email": "Winston37@gmail.com"
+      },
+      {
+        "name": "Lester Feeney",
+        "email": "Jackeline96@hotmail.com"
+      },
+      {
+        "name": "Tony Skiles",
+        "email": "Aron.Ledner@hotmail.com"
+      },
+      {
+        "name": "Orlando Welch",
+        "email": "Johnnie10@yahoo.com"
+      },
+      {
+        "name": "Roxanne Prohaska",
+        "email": "Joaquin45@gmail.com"
+      },
+      {
+        "name": "Loren Kris",
+        "email": "Nellie_Douglas43@yahoo.com"
+      },
+      {
+        "name": "Virginia Douglas",
+        "email": "Cale.Casper@yahoo.com"
+      },
+      {
+        "name": "Sandy Bauch",
+        "email": "Rosalee60@yahoo.com"
+      },
+      {
+        "name": "Renee Leannon",
+        "email": "Augusta8@yahoo.com"
+      },
+      {
+        "name": "Shari Hayes",
+        "email": "Alex_Walker32@yahoo.com"
+      },
+      {
+        "name": "Edith Haley",
+        "email": "Aisha73@gmail.com"
+      },
+      {
+        "name": "Dallas Willms",
+        "email": "Alvena.Murray9@hotmail.com"
+      },
+      {
+        "name": "Ignacio Daniel",
+        "email": "Elton_Schowalter12@yahoo.com"
+      },
+      {
+        "name": "Kathleen Gleason",
+        "email": "Lonny_Beier90@yahoo.com"
+      },
+      {
+        "name": "Timmy Howell",
+        "email": "Rupert_Schoen@gmail.com"
+      },
+      {
+        "name": "Edna Koss",
+        "email": "Fatima_Wuckert86@gmail.com"
+      },
+      {
+        "name": "Pat Medhurst",
+        "email": "Ignacio_Kihn-Terry@yahoo.com"
+      },
+      {
+        "name": "Shari Bergnaum",
+        "email": "Dejuan88@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 34",
+    "instructor": "Regina Brekke",
+    "description": "Eligendi tam crebro desidero consuasor admoneo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=7925000524791808",
+    "duration": "8 weeks",
+    "schedule": "Tue",
+    "location": "42645 Hayes Walk, Favianland",
+    "prerequisites": [
+      "sono",
+      "suffragium"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "capto viscus anser",
+        "content": "Curis tutamen dicta concedo audeo vulnus suspendo. Altus curiositas aestivus comedo vere cito. Cuppedia apparatus tantum quisquam minus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Jon White",
+        "email": "Doris59@gmail.com"
+      },
+      {
+        "name": "Luther Gutkowski",
+        "email": "Tom.Schoen@hotmail.com"
+      },
+      {
+        "name": "Edward Terry",
+        "email": "Foster57@yahoo.com"
+      },
+      {
+        "name": "Clara Zieme",
+        "email": "Mertie_Osinski27@gmail.com"
+      },
+      {
+        "name": "Sadie Greenholt",
+        "email": "Connie_Upton18@gmail.com"
+      },
+      {
+        "name": "Sherman Kub V",
+        "email": "Jakob66@hotmail.com"
+      },
+      {
+        "name": "Joan Kerluke",
+        "email": "Alta83@yahoo.com"
+      },
+      {
+        "name": "Clifton Fadel I",
+        "email": "Devin70@hotmail.com"
+      },
+      {
+        "name": "Carlos Thompson Jr.",
+        "email": "Icie_Krajcik@gmail.com"
+      },
+      {
+        "name": "Dr. Van Schaefer",
+        "email": "Chelsey_Larson73@yahoo.com"
+      },
+      {
+        "name": "Allan Crona",
+        "email": "Anabelle.Krajcik@hotmail.com"
+      },
+      {
+        "name": "Leon Wilderman",
+        "email": "Tony.Nader@gmail.com"
+      },
+      {
+        "name": "Vicky Renner-Bayer",
+        "email": "Devonte.Kutch70@gmail.com"
+      },
+      {
+        "name": "Dr. Santos Rice",
+        "email": "Michael53@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 35",
+    "instructor": "Amelia Feeney",
+    "description": "Quos dolore cultura ultra sulum mollitia conor.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/K444dJD0oI/640/480",
+    "duration": "4 weeks",
+    "schedule": "Mon",
+    "location": "9396 Johnson Street, East Zackaryville",
+    "prerequisites": [
+      "vindico",
+      "valens"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "tenuis tondeo ullam",
+        "content": "Alo verus incidunt vos voluptates adeo. Caelestis acer caries caterva surgo pariatur vacuus. Delego amplus tamquam cubicularis valde celebrer."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mrs. Wendy Nikolaus",
+        "email": "Floy85@gmail.com"
+      },
+      {
+        "name": "Wanda Konopelski",
+        "email": "Adrien53@yahoo.com"
+      },
+      {
+        "name": "Sara Lebsack",
+        "email": "Tristin.McGlynn82@gmail.com"
+      },
+      {
+        "name": "Shaun Graham",
+        "email": "Keith17@yahoo.com"
+      },
+      {
+        "name": "Minnie Grady",
+        "email": "Titus_Bradtke@gmail.com"
+      },
+      {
+        "name": "Casey Rau",
+        "email": "Axel12@yahoo.com"
+      },
+      {
+        "name": "Benjamin Larson",
+        "email": "Alaina32@yahoo.com"
+      },
+      {
+        "name": "Dr. Greg Lemke",
+        "email": "Emelia.Haley14@gmail.com"
+      },
+      {
+        "name": "Holly Spinka",
+        "email": "Cali_Conroy@hotmail.com"
+      },
+      {
+        "name": "Pamela Zemlak",
+        "email": "Matilde.Huel@yahoo.com"
+      },
+      {
+        "name": "Margarita Zemlak",
+        "email": "Luciano65@hotmail.com"
+      },
+      {
+        "name": "Luther Volkman",
+        "email": "Gretchen.Weissnat@hotmail.com"
+      },
+      {
+        "name": "Peter Jenkins",
+        "email": "Bobby97@hotmail.com"
+      },
+      {
+        "name": "Ella Feeney-VonRueden",
+        "email": "Thea.Veum@gmail.com"
+      },
+      {
+        "name": "Dr. Lewis Stiedemann",
+        "email": "Alva_Fritsch1@hotmail.com"
+      },
+      {
+        "name": "Mrs. Lora Hammes PhD",
+        "email": "Kayley.Littel39@hotmail.com"
+      },
+      {
+        "name": "Stanley Hilll",
+        "email": "Sigmund.Murray88@yahoo.com"
+      },
+      {
+        "name": "Dr. Rhonda Lynch",
+        "email": "Kendra52@hotmail.com"
+      },
+      {
+        "name": "Shelly Windler",
+        "email": "Andres_Berge@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 36",
+    "instructor": "Elsie Waters",
+    "description": "Utilis clibanus atque quis infit vinco provident aperte verumtamen astrum.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=4825626663976960",
+    "duration": "4 weeks",
+    "schedule": "Mon",
+    "location": "99054 Franco Loaf, Carson",
+    "prerequisites": [
+      "velut",
+      "canto"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "vigilo vilicus amplexus",
+        "content": "Basium cornu crudelis debeo defleo candidus suasoria. Dedecor vehemens suus stips adipisci. Subiungo asperiores comminor tondeo viridis cumque vorago thema."
+      },
+      {
+        "week": 2,
+        "topic": "temporibus derelinquo crastinus",
+        "content": "Cui vobis basium placeat audio. Temptatio voluptate tunc sopor ex id suffragium curtus curriculum adnuo. Utilis auctor vir conspergo titulus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Marjorie Nader",
+        "email": "Joshuah.Parker@yahoo.com"
+      },
+      {
+        "name": "Mr. Timothy King",
+        "email": "Delaney57@hotmail.com"
+      },
+      {
+        "name": "Miss Lucille Wisozk",
+        "email": "Merle.Wolf@yahoo.com"
+      },
+      {
+        "name": "Kathleen Muller",
+        "email": "Annabell_OConnell@hotmail.com"
+      },
+      {
+        "name": "Rita Conn",
+        "email": "Wanda_Johnson-Franey@yahoo.com"
+      },
+      {
+        "name": "Dr. Robin Murray DDS",
+        "email": "Otto57@gmail.com"
+      },
+      {
+        "name": "Al Legros",
+        "email": "Mittie_Grady-Yost45@gmail.com"
+      },
+      {
+        "name": "Byron Spinka",
+        "email": "Johanna.Kerluke@gmail.com"
+      },
+      {
+        "name": "Ryan Stokes",
+        "email": "Mable.Johnson@hotmail.com"
+      },
+      {
+        "name": "Anna Beer PhD",
+        "email": "America.Heidenreich45@hotmail.com"
+      },
+      {
+        "name": "Miss Kelly Hane",
+        "email": "Loma23@gmail.com"
+      },
+      {
+        "name": "Dr. Irving Howe",
+        "email": "Jade.Rolfson62@gmail.com"
+      },
+      {
+        "name": "Angelina Oberbrunner",
+        "email": "Hilma.Keebler@yahoo.com"
+      },
+      {
+        "name": "Edwin Schuster",
+        "email": "Karlie.Wiza-Lindgren@gmail.com"
+      },
+      {
+        "name": "Alexis Braun",
+        "email": "Rebecca.Blick@yahoo.com"
+      },
+      {
+        "name": "Armando Sipes",
+        "email": "Dessie.Dooley93@yahoo.com"
+      },
+      {
+        "name": "Edith Raynor",
+        "email": "Russ.Carroll31@yahoo.com"
+      },
+      {
+        "name": "Colin Volkman II",
+        "email": "Germaine46@gmail.com"
+      },
+      {
+        "name": "Essie Murazik",
+        "email": "Marilyne22@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 37",
+    "instructor": "Cameron Zboncak",
+    "description": "Trucido aureus vociferor cur minus tepesco usitas adulatio assumenda.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/VKg9ZkmL7/640/480",
+    "duration": "4 weeks",
+    "schedule": "Fri",
+    "location": "1586 Louisa Extensions, Marquardtboro",
+    "prerequisites": [
+      "clarus",
+      "fugiat"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "adimpleo condico creo",
+        "content": "Arbor creptio theca demulceo calculus vere capto. Traho bellum approbo varietas claudeo appositus demum aequus soluta conqueror. Ventus aequitas trepide alter."
+      },
+      {
+        "week": 2,
+        "topic": "adipisci vespillo illum",
+        "content": "Coma trucido cauda pecco turpis. Tametsi reiciendis cornu vinum voluptatem pauci amiculum molestias suasoria. Animadverto cogito cunctatio aestus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mack Legros-Abshire",
+        "email": "Zachary64@hotmail.com"
+      },
+      {
+        "name": "Abel Will",
+        "email": "Fiona87@gmail.com"
+      },
+      {
+        "name": "Cory Kuphal",
+        "email": "Adele_Schiller38@hotmail.com"
+      },
+      {
+        "name": "Michael Cummings",
+        "email": "Toney.Fritsch@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 38",
+    "instructor": "Ms. Tiffany Sanford",
+    "description": "Placeat alioqui nam uterque solum.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=1977102406516736",
+    "duration": "2 weeks",
+    "schedule": "Sun",
+    "location": "25204 Central Avenue, Fort Estella",
+    "prerequisites": [
+      "vomica",
+      "soluta"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "sono denuo deporto",
+        "content": "Decimus amplexus coniuratio demulceo temeritas totidem contabesco stella atque. Cervus tamisium deporto. Vita adinventitias totam unus adfectus collum debeo corrigo officiis."
+      }
+    ],
+    "students": [
+      {
+        "name": "Vivian Mayert",
+        "email": "Kieran52@yahoo.com"
+      },
+      {
+        "name": "Julius Swift DVM",
+        "email": "Bettie51@yahoo.com"
+      },
+      {
+        "name": "Sally McGlynn",
+        "email": "Mauricio_Toy37@yahoo.com"
+      },
+      {
+        "name": "Terrell Kerluke",
+        "email": "Julio_Shields@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 39",
+    "instructor": "Lucas Armstrong",
+    "description": "Sortitus solitudo somnus artificiose tepesco turbo deprecator benigne volo ait.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=7433757610999808",
+    "duration": "0 weeks",
+    "schedule": "Sat",
+    "location": "58289 Talbot Road, Babyhaven",
+    "prerequisites": [
+      "pecus",
+      "amo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "copia apostolus vomito",
+        "content": "Volo trans voco dignissimos sodalitas concido defungo tabella. Alias valetudo victus aggero ut bibo. Crapula acerbitas ustulo succedo cornu talus."
+      },
+      {
+        "week": 2,
+        "topic": "cerno copia desolo",
+        "content": "Cursim contra utpote surculus cogo ea assentator. Vestrum sollers cubitum. Omnis ultio celebrer aspicio terminatio celo defleo possimus tego conor."
+      },
+      {
+        "week": 3,
+        "topic": "venio universe accedo",
+        "content": "Quaerat velociter cavus. Via paulatim tandem asperiores annus adfero solutio rem asperiores vel. Patria argumentum tumultus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Frances Lang",
+        "email": "Jenifer.Crona@hotmail.com"
+      },
+      {
+        "name": "Janet Batz",
+        "email": "Orval_Gottlieb99@hotmail.com"
+      },
+      {
+        "name": "Pearl Glover",
+        "email": "Lauriane7@hotmail.com"
+      },
+      {
+        "name": "Molly Kuhic",
+        "email": "Dayana15@yahoo.com"
+      },
+      {
+        "name": "Shawn Zboncak",
+        "email": "Blaze.Kerluke@gmail.com"
+      },
+      {
+        "name": "Miss Debbie Howell",
+        "email": "Marguerite.Kertzmann@hotmail.com"
+      },
+      {
+        "name": "Lorene Barton",
+        "email": "Dana_Grimes24@hotmail.com"
+      },
+      {
+        "name": "Miss Rochelle Sawayn",
+        "email": "Dylan.Murazik-Sporer32@yahoo.com"
+      },
+      {
+        "name": "Gina Littel",
+        "email": "Keira.Heaney0@hotmail.com"
+      },
+      {
+        "name": "Dr. Kristopher Monahan-Osinski",
+        "email": "Jeromy.Farrell16@gmail.com"
+      },
+      {
+        "name": "Todd Durgan",
+        "email": "Domingo.Brekke88@hotmail.com"
+      },
+      {
+        "name": "Natalie Quitzon",
+        "email": "Karlee_McCullough@yahoo.com"
+      },
+      {
+        "name": "Joy Skiles",
+        "email": "Dane80@yahoo.com"
+      },
+      {
+        "name": "Natasha Gleichner",
+        "email": "Effie87@gmail.com"
+      },
+      {
+        "name": "Terence Weber",
+        "email": "Darrell41@hotmail.com"
+      },
+      {
+        "name": "Laurence Purdy",
+        "email": "Jermain.Carroll21@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 40",
+    "instructor": "Marguerite Pollich",
+    "description": "Distinctio et tracto atrocitas curo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/69zy4/640/480",
+    "duration": "3 weeks",
+    "schedule": "Sun",
+    "location": "2041 Madison Avenue, Tyreestead",
+    "prerequisites": [
+      "suus",
+      "terminatio"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "unde cubicularis attero",
+        "content": "Cruentus vacuus usque tenuis. Patrocinor alveus quos aeternus talio esse cariosus commodi laboriosam amitto. Studio sublime bellicus occaecati sum vesco thalassinus surculus."
+      },
+      {
+        "week": 2,
+        "topic": "adsidue sponte voluptatem",
+        "content": "Combibo baiulus aestas velum maxime theologus. Vox audeo ipsum cur vereor cognatus delectus. Voveo arbor thymum tristis consequuntur harum eum defleo creber."
+      }
+    ],
+    "students": [
+      {
+        "name": "Nathaniel Larkin",
+        "email": "Clifford.Schultz32@yahoo.com"
+      },
+      {
+        "name": "Pam Rutherford PhD",
+        "email": "Hardy30@yahoo.com"
+      },
+      {
+        "name": "Miss Frances Hermann-Koepp",
+        "email": "Lynn.Bergnaum89@gmail.com"
+      },
+      {
+        "name": "Dr. Ross Ryan",
+        "email": "Mazie_Adams@yahoo.com"
+      },
+      {
+        "name": "Milton Yundt",
+        "email": "Bethany21@gmail.com"
+      },
+      {
+        "name": "Megan Aufderhar",
+        "email": "Opal9@yahoo.com"
+      },
+      {
+        "name": "Bethany Goodwin",
+        "email": "Kolby23@gmail.com"
+      },
+      {
+        "name": "Stella Hoeger",
+        "email": "Freddy_Kertzmann67@gmail.com"
+      },
+      {
+        "name": "Ross Reichel",
+        "email": "Kylie94@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 41",
+    "instructor": "Kathryn Veum IV",
+    "description": "Sunt pecto torrens sonitus theatrum taceo dolorum cavus atque.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/dnvNJuHKT/640/480",
+    "duration": "2 weeks",
+    "schedule": "Wed",
+    "location": "49642 Clark Street, Farrellside",
+    "prerequisites": [
+      "currus",
+      "dapifer"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "curto crapula deinde",
+        "content": "Clarus undique laboriosam vinum bonus caelum virgo censura. Tabella cunabula caritas ustulo ait adduco. Animus cariosus titulus vinco."
+      },
+      {
+        "week": 2,
+        "topic": "creta copiose tepesco",
+        "content": "Abstergo suadeo cometes. Terga caries cupressus commemoro argumentum apostolus. Vitium voluptas odit tergum sursum."
+      },
+      {
+        "week": 3,
+        "topic": "asperiores angulus verbum",
+        "content": "Vigor eligendi strues adhaero abscido ciminatio. Adipiscor subvenio vehemens cuius adeptio despecto eum. Patrocinor textus defendo dolorum ulciscor quidem."
+      }
+    ],
+    "students": [
+      {
+        "name": "Dan Von",
+        "email": "Jesse65@yahoo.com"
+      },
+      {
+        "name": "Emanuel Von",
+        "email": "Samanta.Donnelly@yahoo.com"
+      },
+      {
+        "name": "Adrienne Thiel",
+        "email": "Tyshawn90@gmail.com"
+      },
+      {
+        "name": "Kirk Dare IV",
+        "email": "Ashton.Hand66@hotmail.com"
+      },
+      {
+        "name": "Alberta Pfannerstill",
+        "email": "Adele36@yahoo.com"
+      },
+      {
+        "name": "Elijah Will",
+        "email": "Efren_Kuvalis67@hotmail.com"
+      },
+      {
+        "name": "Dr. Salvatore Renner-O'Kon",
+        "email": "Lorenz_Stamm16@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 42",
+    "instructor": "Guadalupe Rowe",
+    "description": "Paulatim vulticulus vulgivagus uterque.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=2248430216806400",
+    "duration": "0 weeks",
+    "schedule": "Mon",
+    "location": "432 Marjolaine Prairie, Pagacport",
+    "prerequisites": [
+      "auctus",
+      "aperiam"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "sustineo tubineus audax",
+        "content": "Quo accusamus depromo ait tamen adnuo textus defleo culpo utrimque. Conitor coruscus caute arbor corrumpo ara comitatus campana abduco. Desino vesper velut."
+      },
+      {
+        "week": 2,
+        "topic": "veritas vinco labore",
+        "content": "Timidus depraedor adiuvo debeo solium testimonium. Arguo auditor vix uterque. Doloribus demo adaugeo arbitro tamen textus cruentus ipsum alveus sublime."
+      },
+      {
+        "week": 3,
+        "topic": "tot amissio tamdiu",
+        "content": "Vulticulus tantillus aiunt nisi explicabo saepe tego torrens eveniet cunctatio. Desolo amplexus aegrus corpus quo vulariter. Voluptatem theatrum adulatio corrupti."
+      }
+    ],
+    "students": [
+      {
+        "name": "Amelia Franey",
+        "email": "Lessie.McLaughlin51@yahoo.com"
+      },
+      {
+        "name": "Viola McLaughlin",
+        "email": "Wyman68@gmail.com"
+      },
+      {
+        "name": "Earnest Trantow",
+        "email": "Jana_Maggio@hotmail.com"
+      },
+      {
+        "name": "Latoya Lakin",
+        "email": "Minnie.Langworth68@yahoo.com"
+      },
+      {
+        "name": "Doyle Cole",
+        "email": "Seamus.Barrows@yahoo.com"
+      },
+      {
+        "name": "Alberta Johns Sr.",
+        "email": "Jo_Aufderhar@hotmail.com"
+      },
+      {
+        "name": "Lorene Macejkovic",
+        "email": "Dario_Welch42@hotmail.com"
+      },
+      {
+        "name": "Cedric Franecki",
+        "email": "Kip23@gmail.com"
+      },
+      {
+        "name": "Terrance Graham Jr.",
+        "email": "Allie.Glover@yahoo.com"
+      },
+      {
+        "name": "Joyce Hegmann MD",
+        "email": "Alexa.Marvin-Macejkovic@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 43",
+    "instructor": "Jessica Langosh",
+    "description": "Ea animadverto administratio arto contigo coma officia ultio.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/v6F6xdYsj/640/480",
+    "duration": "6 weeks",
+    "schedule": "Tue",
+    "location": "16289 Bailey Centers, Fort Sandy",
+    "prerequisites": [
+      "vicinus",
+      "paulatim"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "claudeo speculum civis",
+        "content": "Placeat arto adamo supplanto. Perferendis aliqua conturbo. Adficio perspiciatis modi cupio angulus vero summopere carbo paens atque."
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss Eva Herman",
+        "email": "Robbie_Crist8@yahoo.com"
+      },
+      {
+        "name": "Charles Flatley",
+        "email": "Jettie.Carter23@yahoo.com"
+      },
+      {
+        "name": "Jeanette Schimmel-Willms",
+        "email": "Seth.Denesik95@hotmail.com"
+      },
+      {
+        "name": "Dr. Brett Mertz-Hoppe",
+        "email": "Friedrich98@gmail.com"
+      },
+      {
+        "name": "Leigh Sporer",
+        "email": "Kelton81@hotmail.com"
+      },
+      {
+        "name": "Dean Frami DDS",
+        "email": "Thurman76@gmail.com"
+      },
+      {
+        "name": "Roderick Carroll",
+        "email": "Nels.Boyer1@hotmail.com"
+      },
+      {
+        "name": "Jeannette Wintheiser",
+        "email": "Georgette.Kemmer-Littel@gmail.com"
+      },
+      {
+        "name": "Opal Ebert",
+        "email": "Martin41@gmail.com"
+      },
+      {
+        "name": "Faye Dare",
+        "email": "Marilou_Jacobson80@gmail.com"
+      },
+      {
+        "name": "Terry Quitzon",
+        "email": "Matilde.Hane74@hotmail.com"
+      },
+      {
+        "name": "Robert Kulas",
+        "email": "Mariela.Luettgen42@hotmail.com"
+      },
+      {
+        "name": "Anthony Morissette DDS",
+        "email": "Lisandro.Bernhard94@hotmail.com"
+      },
+      {
+        "name": "Margaret Kertzmann",
+        "email": "Kiley.Mertz-Cassin0@gmail.com"
+      },
+      {
+        "name": "Elsa Daugherty",
+        "email": "Emil.Boyle@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 44",
+    "instructor": "Lorena Reilly",
+    "description": "Centum consequuntur utrum tunc vero talus vero.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=8175979558076416",
+    "duration": "0 weeks",
+    "schedule": "Tue",
+    "location": "7866 Ruecker Ways, Woodland",
+    "prerequisites": [
+      "canto",
+      "arcesso"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "doloribus thesaurus suscipio",
+        "content": "Adduco terminatio confero astrum deficio animus vos terga vel aranea. Tamquam contra depereo tenuis arma currus terror abeo suscipio. Qui thymum antiquus sumptus beneficium cicuta canto teneo auctus dapifer."
+      },
+      {
+        "week": 2,
+        "topic": "averto cognatus aggredior",
+        "content": "Ars aiunt atavus spes vilis animi attollo credo summisse volutabrum. Cras cognatus adipisci. Contabesco sursum vilitas aequus appello vitium."
+      }
+    ],
+    "students": [
+      {
+        "name": "Marc Kassulke",
+        "email": "Jordon54@yahoo.com"
+      },
+      {
+        "name": "Regina Kutch",
+        "email": "Elmo.Jaskolski@hotmail.com"
+      },
+      {
+        "name": "Caroline Conn",
+        "email": "Dasia21@hotmail.com"
+      },
+      {
+        "name": "Mr. Mike Glover",
+        "email": "Grace6@hotmail.com"
+      },
+      {
+        "name": "Sheri Kautzer",
+        "email": "Jaiden15@gmail.com"
+      },
+      {
+        "name": "Ms. Kelli Aufderhar",
+        "email": "Adelle.Muller@gmail.com"
+      },
+      {
+        "name": "Earl McCullough",
+        "email": "Aimee_Weber@yahoo.com"
+      },
+      {
+        "name": "Kate Maggio",
+        "email": "Ruben.Kuvalis@yahoo.com"
+      },
+      {
+        "name": "Mr. Kent Cummerata",
+        "email": "Rogers.Beahan@gmail.com"
+      },
+      {
+        "name": "Rosa O'Kon",
+        "email": "Hope30@yahoo.com"
+      },
+      {
+        "name": "Bryant Thiel",
+        "email": "Bernie.Kub20@gmail.com"
+      },
+      {
+        "name": "Lee Kirlin-Will",
+        "email": "Zaria40@gmail.com"
+      },
+      {
+        "name": "Dr. Phil Jacobson",
+        "email": "Trinity.Funk6@gmail.com"
+      },
+      {
+        "name": "Kelli Vandervort I",
+        "email": "Twila10@yahoo.com"
+      },
+      {
+        "name": "Gustavo Keeling",
+        "email": "Myrtie50@gmail.com"
+      },
+      {
+        "name": "Melissa Kihn",
+        "email": "Jaida.Lebsack@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 45",
+    "instructor": "Anne Mayer PhD",
+    "description": "Appono tunc animus subiungo depereo esse demo depulso.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/gaxxai/640/480",
+    "duration": "3 weeks",
+    "schedule": "Sat",
+    "location": "496 Wisoky Shoal, Kshlerincester",
+    "prerequisites": [
+      "speculum",
+      "via"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "compono vomica subnecto",
+        "content": "Odio claudeo tripudio coma tricesimus curvo thorax calamitas vorax anser. Terga vomer damno cruciamentum creator odit repellat somnus accusantium ante. Est aegrotatio administratio anser deporto abbas."
+      },
+      {
+        "week": 2,
+        "topic": "necessitatibus artificiose pel",
+        "content": "Tenuis curiositas recusandae. Alter voluntarius demitto virgo tabesco bis. Id confido cultura dapifer valetudo rem avarus nobis ars termes."
+      },
+      {
+        "week": 3,
+        "topic": "civitas subnecto tollo",
+        "content": "Vinco ipsam acsi quod vilicus claustrum aetas universe quod vesper. Eos depereo quisquam arceo. Capitulus ultio utilis basium."
+      }
+    ],
+    "students": [
+      {
+        "name": "Santiago Macejkovic",
+        "email": "Ernie.Sanford47@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 46",
+    "instructor": "Kristine Collins",
+    "description": "Barba voluptatibus ex vester usitas quia vesco strues.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/Cn1oxjM/640/480",
+    "duration": "8 weeks",
+    "schedule": "Wed",
+    "location": "3381 Woodrow Flats, Dale City",
+    "prerequisites": [
+      "solus",
+      "optio"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "defessus terga somniculosus",
+        "content": "Succedo allatus tyrannus perspiciatis celer sustineo curo aegre aetas tamisium. Inflammatio demonstro auditor tam possimus auctor acquiro triumphus. Trans strenuus universe."
+      },
+      {
+        "week": 2,
+        "topic": "solutio damnatio creber",
+        "content": "Communis conor apud vehemens adfero. Carmen esse necessitatibus ancilla vestrum blanditiis tamisium magnam decimus quam. Consequuntur depopulo demum currus terga coaegresco acsi calcar synagoga."
+      },
+      {
+        "week": 3,
+        "topic": "subiungo benigne verumtamen",
+        "content": "Comitatus dolorem consequatur. Conor copia maiores accommodo abstergo. Conspergo sunt odio omnis demum tego pecus dicta."
+      }
+    ],
+    "students": [
+      {
+        "name": "Patti Hegmann",
+        "email": "Cleveland20@gmail.com"
+      },
+      {
+        "name": "Antonia Romaguera",
+        "email": "Darrick.Rau31@hotmail.com"
+      },
+      {
+        "name": "Justin Boyer",
+        "email": "Eloy.Zemlak@hotmail.com"
+      },
+      {
+        "name": "Marsha Crist",
+        "email": "Isabell_Spinka@yahoo.com"
+      },
+      {
+        "name": "Anne McCullough",
+        "email": "Ali82@yahoo.com"
+      },
+      {
+        "name": "Kristie Hauck",
+        "email": "Tremaine.Yost41@hotmail.com"
+      },
+      {
+        "name": "Dr. Benny Hansen",
+        "email": "Yolanda_Schneider@yahoo.com"
+      },
+      {
+        "name": "Ed Cassin",
+        "email": "Lelia.Schroeder@gmail.com"
+      },
+      {
+        "name": "Jorge Schinner",
+        "email": "Ona.Dooley@gmail.com"
+      },
+      {
+        "name": "Darryl Quigley",
+        "email": "Horace.Vandervort22@yahoo.com"
+      },
+      {
+        "name": "Georgia Brakus",
+        "email": "Olen27@hotmail.com"
+      },
+      {
+        "name": "Noah Cartwright",
+        "email": "Jany.Wyman@hotmail.com"
+      },
+      {
+        "name": "Ralph Hauck II",
+        "email": "Neil.Greenholt@yahoo.com"
+      },
+      {
+        "name": "Mr. Everett Prosacco Jr.",
+        "email": "Eileen_Kreiger68@gmail.com"
+      },
+      {
+        "name": "Kelli Aufderhar-Ward",
+        "email": "Trisha37@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 47",
+    "instructor": "Roman Fay",
+    "description": "Amicitia utilis repudiandae vomito.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/ZKnOe5/640/480",
+    "duration": "5 weeks",
+    "schedule": "Tue",
+    "location": "4161 Granville Forge, Howellland",
+    "prerequisites": [
+      "deorsum",
+      "amet"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "dens tam deorsum",
+        "content": "Calamitas terga totam virga blandior curvo amor tolero bene. Qui degusto defungo minima. Temptatio decretum stipes verecundia."
+      },
+      {
+        "week": 2,
+        "topic": "laborum ater basium",
+        "content": "Vicinus cogo esse tametsi. Statim adipisci beatae coepi fugit. Cicuta amissio ultra solium brevis tracto."
+      },
+      {
+        "week": 3,
+        "topic": "possimus defaeco enim",
+        "content": "Aperte cena terminatio conitor credo adstringo dedecor astrum. Tandem claustrum caecus vulgaris aqua cibus coma tracto advenio. Abeo argentum absum conforto denuo id creo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr. Sergio Frami",
+        "email": "Andres_Halvorson@yahoo.com"
+      },
+      {
+        "name": "Dr. Rene Breitenberg",
+        "email": "Enola72@gmail.com"
+      },
+      {
+        "name": "Mr. Todd Lowe",
+        "email": "Krystina.Kiehn27@hotmail.com"
+      },
+      {
+        "name": "Thomas Nitzsche",
+        "email": "Quincy_Witting34@gmail.com"
+      },
+      {
+        "name": "Michelle Schuster IV",
+        "email": "Steve58@yahoo.com"
+      },
+      {
+        "name": "Brad Dare MD",
+        "email": "Bret_Boyle@yahoo.com"
+      },
+      {
+        "name": "Randy Harber",
+        "email": "Russel.Wyman@yahoo.com"
+      },
+      {
+        "name": "Christie Keebler",
+        "email": "Daisha45@hotmail.com"
+      },
+      {
+        "name": "Sandra Braun",
+        "email": "Nelson51@gmail.com"
+      },
+      {
+        "name": "Lamar Larkin",
+        "email": "Felicity99@yahoo.com"
+      },
+      {
+        "name": "Debra Hartmann",
+        "email": "Roxanne_Hessel-Terry12@yahoo.com"
+      },
+      {
+        "name": "Cody Barrows",
+        "email": "Magali_Trantow@gmail.com"
+      },
+      {
+        "name": "Elaine Franecki",
+        "email": "Virginie36@gmail.com"
+      },
+      {
+        "name": "Felicia Streich",
+        "email": "Chesley66@yahoo.com"
+      },
+      {
+        "name": "Camille Mills",
+        "email": "Julien_Rodriguez38@gmail.com"
+      },
+      {
+        "name": "Wallace O'Conner",
+        "email": "Creola53@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 48",
+    "instructor": "Myrtle Waters",
+    "description": "Vito defleo cavus utrimque basium derideo numquam.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/Cz35wv/640/480",
+    "duration": "4 weeks",
+    "schedule": "Fri",
+    "location": "12514 Treutel Tunnel, Darionstead",
+    "prerequisites": [
+      "tenuis",
+      "ago"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "decimus cornu arca",
+        "content": "Aveho bos decet minima necessitatibus tendo voluptatibus ter umbra nostrum. Quia angelus summopere veniam caelum triumphus. Apto enim deorsum convoco color ullus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Patty Effertz",
+        "email": "Brenden.Reichert-Carter20@yahoo.com"
+      },
+      {
+        "name": "Brandi Haag",
+        "email": "Jayda_Feest59@yahoo.com"
+      },
+      {
+        "name": "Allan Zieme",
+        "email": "Cathy70@yahoo.com"
+      },
+      {
+        "name": "Cody Feeney",
+        "email": "Kyler.Gusikowski63@gmail.com"
+      },
+      {
+        "name": "Mrs. Delia Adams",
+        "email": "Katlynn_Konopelski@gmail.com"
+      },
+      {
+        "name": "Elijah Breitenberg",
+        "email": "Yessenia.Turcotte97@yahoo.com"
+      },
+      {
+        "name": "Jonathon Pfannerstill",
+        "email": "Lyda_Daniel72@yahoo.com"
+      },
+      {
+        "name": "Dr. Marc Quitzon DVM",
+        "email": "Gloria.Klocko@yahoo.com"
+      },
+      {
+        "name": "Sheri Botsford",
+        "email": "Sylvia_Hilll@hotmail.com"
+      },
+      {
+        "name": "Dr. Nicolas Abernathy",
+        "email": "Leopold_Waelchi58@yahoo.com"
+      },
+      {
+        "name": "Mamie Kovacek",
+        "email": "Ricardo41@yahoo.com"
+      },
+      {
+        "name": "Mrs. Elizabeth Lockman",
+        "email": "Brycen.Weimann77@yahoo.com"
+      },
+      {
+        "name": "Jo Reinger-Rohan",
+        "email": "Dallas_Carroll@gmail.com"
+      },
+      {
+        "name": "Faye Boyer",
+        "email": "Terrell.Parker55@hotmail.com"
+      },
+      {
+        "name": "Dexter Kunde-Beer",
+        "email": "Ford64@yahoo.com"
+      },
+      {
+        "name": "Rosie Lubowitz",
+        "email": "Madaline31@yahoo.com"
+      },
+      {
+        "name": "Linda Baumbach",
+        "email": "Carolanne_Anderson@yahoo.com"
+      },
+      {
+        "name": "Lawrence Dietrich-Orn",
+        "email": "Stephanie.Kuhic93@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 49",
+    "instructor": "Judy Kuhlman",
+    "description": "Textus approbo tollo curis derelinquo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=5772326148767744",
+    "duration": "9 weeks",
+    "schedule": "Fri",
+    "location": "90275 Jaclyn Vista, Ludwigcester",
+    "prerequisites": [
+      "adulescens",
+      "coaegresco"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "creator bellicus terra",
+        "content": "Tibi adimpleo ancilla. Ultio patior alii. Aestivus conicio suspendo tandem convoco barba."
+      },
+      {
+        "week": 2,
+        "topic": "benevolentia auctus talio",
+        "content": "Creator appositus cursus praesentium quia sursum utique civis validus. Caveo crudelis sum vos quae desino. Verecundia appono dedecor et caelestis unus totidem cinis solum."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr. Wilson Muller",
+        "email": "Harvey_Glover@yahoo.com"
+      },
+      {
+        "name": "Vanessa Wilkinson",
+        "email": "Brant.Langosh@gmail.com"
+      },
+      {
+        "name": "Martin Schumm",
+        "email": "Boris.Rau62@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 50",
+    "instructor": "Randall Brekke",
+    "description": "Decipio terreo substantia caute.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/RXLCL6gFZO/640/480",
+    "duration": "8 weeks",
+    "schedule": "Wed",
+    "location": "492 Middle Street, Hilo",
+    "prerequisites": [
+      "acceptus",
+      "armarium"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "agnosco voluptatem vereor",
+        "content": "Torqueo blandior vinco est terebro vester strues cito quas. Aer beatus creator infit. Totam cariosus antiquus absorbeo comparo color."
+      },
+      {
+        "week": 2,
+        "topic": "absens arcesso velum",
+        "content": "Ad tribuo suscipio usitas vae stabilis. Cornu caute necessitatibus torqueo tametsi condico. Cunabula defluo cursim demitto."
+      },
+      {
+        "week": 3,
+        "topic": "repellat adnuo color",
+        "content": "Adeo tunc termes. Comburo conor sum quis thesis callide cornu suspendo altus vulgus. Quos conqueror deserunt culpa."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr. Edmond Reynolds",
+        "email": "Winifred42@yahoo.com"
+      },
+      {
+        "name": "Bridget Bartoletti-Kerluke",
+        "email": "Zoila.Ziemann61@gmail.com"
+      },
+      {
+        "name": "Patty Murphy",
+        "email": "Patrick18@gmail.com"
+      },
+      {
+        "name": "Steven Weber V",
+        "email": "Kenneth_Wyman@hotmail.com"
+      },
+      {
+        "name": "Angel Blanda",
+        "email": "Katelin6@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 51",
+    "instructor": "Adrienne Feest",
+    "description": "Illo officia commodi utpote comis alo vesco nisi itaque.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=3424408249040896",
+    "duration": "0 weeks",
+    "schedule": "Mon",
+    "location": "1631 Kasandra Passage, North Gilbertoburgh",
+    "prerequisites": [
+      "carcer",
+      "valeo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "sono dens stips",
+        "content": "Accusator aedificium conicio cruciamentum demoror venia terminatio perspiciatis adflicto. Conscendo strues tactus cometes ascisco ager molestiae cariosus socius perferendis. Vomer abundans curatio stultus."
+      },
+      {
+        "week": 2,
+        "topic": "veritas spes ex",
+        "content": "Urbanus peccatus carcer. Tardus corrigo aptus decerno summa. Ater thymum tactus verbum beatus demum calculus acies cunabula compono."
+      },
+      {
+        "week": 3,
+        "topic": "caritas aestus vae",
+        "content": "Asporto deduco cupiditate vestigium id terga bibo sed. Iure aeternus ultio summa. Amor admoveo occaecati conventus terreo aestus ater cohors."
+      }
+    ],
+    "students": [
+      {
+        "name": "Albert Friesen Sr.",
+        "email": "Tomasa_Kilback31@gmail.com"
+      },
+      {
+        "name": "Kimberly Reinger",
+        "email": "Florian60@yahoo.com"
+      },
+      {
+        "name": "Mr. Lamar Streich",
+        "email": "Pierce_Lang@hotmail.com"
+      },
+      {
+        "name": "Misty Renner",
+        "email": "Carlie.McCullough@hotmail.com"
+      },
+      {
+        "name": "Emanuel Rempel",
+        "email": "Sydney.Sawayn@hotmail.com"
+      },
+      {
+        "name": "Ismael Altenwerth",
+        "email": "Marlin.Williamson@hotmail.com"
+      },
+      {
+        "name": "Claire Blanda",
+        "email": "Valentin5@gmail.com"
+      },
+      {
+        "name": "Jeremy O'Hara-Hamill Sr.",
+        "email": "Reuben97@hotmail.com"
+      },
+      {
+        "name": "Katherine Heller",
+        "email": "Kody30@yahoo.com"
+      },
+      {
+        "name": "Loretta Veum",
+        "email": "Hilton.Boyer@hotmail.com"
+      },
+      {
+        "name": "Glenda Reynolds",
+        "email": "Callie20@hotmail.com"
+      },
+      {
+        "name": "Christy Luettgen",
+        "email": "Nicolette39@hotmail.com"
+      },
+      {
+        "name": "Mr. Joe Runte",
+        "email": "Vicente.Lebsack98@gmail.com"
+      },
+      {
+        "name": "Angelo Runolfsson",
+        "email": "Faustino.Kunze28@gmail.com"
+      },
+      {
+        "name": "Melody Howell",
+        "email": "Braeden_Jast@gmail.com"
+      },
+      {
+        "name": "Sandra Wiza-Harvey",
+        "email": "Marcelle_Hamill@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 52",
+    "instructor": "Stephanie Fay",
+    "description": "Amaritudo via eius infit.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/tmiGTY/640/480",
+    "duration": "5 weeks",
+    "schedule": "Tue",
+    "location": "64684 Misael Glens, Tremayneton",
+    "prerequisites": [
+      "cado",
+      "tabella"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "cervus doloremque cupiditas",
+        "content": "Adnuo crinis explicabo cupiditas conventus dens. Alienus absum eum bibo ullus libero textor. Tametsi custodia abutor decumbo deleo decet adflicto."
+      }
+    ],
+    "students": [
+      {
+        "name": "Guadalupe Pagac-Nitzsche Jr.",
+        "email": "Audie76@gmail.com"
+      },
+      {
+        "name": "Madeline McKenzie",
+        "email": "Emmett.Crooks40@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 53",
+    "instructor": "Teri Hilpert",
+    "description": "Suadeo viscus cunae viscus deleo amicitia.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/EkjGDS8S/640/480",
+    "duration": "2 weeks",
+    "schedule": "Mon",
+    "location": "496 Jazmin Avenue, Shadview",
+    "prerequisites": [
+      "tempore",
+      "necessitatibus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "quas venia et",
+        "content": "Tersus cultellus usque cornu bardus confido articulus volo tabula. Cito fugiat aequitas autem curia uterque amplexus veniam. Ter soleo advoco corona tergiversatio."
+      }
+    ],
+    "students": [
+      {
+        "name": "Jesse Herman",
+        "email": "Jalen27@yahoo.com"
+      },
+      {
+        "name": "Emmett Lehner",
+        "email": "Juston85@gmail.com"
+      },
+      {
+        "name": "Margie Oberbrunner",
+        "email": "Trey92@yahoo.com"
+      },
+      {
+        "name": "Rudolph Feest IV",
+        "email": "Kennedi.Runolfsdottir68@yahoo.com"
+      },
+      {
+        "name": "Mrs. Tracey Boyle",
+        "email": "Boris98@yahoo.com"
+      },
+      {
+        "name": "Kevin Wolf",
+        "email": "Camille.Johns@gmail.com"
+      },
+      {
+        "name": "Peter Crist",
+        "email": "Deshaun.Feest83@yahoo.com"
+      },
+      {
+        "name": "Levi Johns",
+        "email": "Brycen_Schamberger@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 54",
+    "instructor": "Raymond Runte",
+    "description": "Sollers carus virga auxilium.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=3541259970936832",
+    "duration": "2 weeks",
+    "schedule": "Sat",
+    "location": "48034 Meadow Way, Valdosta",
+    "prerequisites": [
+      "ara",
+      "solio"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "adipisci laudantium barba",
+        "content": "Uter casso abduco brevis addo audacia contabesco absens tactus. Acervus corrumpo viduo terminatio ustulo cubicularis perspiciatis vae. Demitto sumo volubilis alter concedo demoror placeat ver."
+      },
+      {
+        "week": 2,
+        "topic": "somniculosus ultra undique",
+        "content": "Bonus apud cultura. Tutamen vereor spiritus vitiosus abutor pariatur dolor. Atavus coadunatio barba tergiversatio thema synagoga in."
+      },
+      {
+        "week": 3,
+        "topic": "tripudio coma ubi",
+        "content": "Ter vobis vestrum aestas contabesco atqui turpis. Concedo annus vobis laudantium spectaculum. Turbo doloribus defero eos atrox coruscus custodia."
+      }
+    ],
+    "students": [
+      {
+        "name": "Frederick Gutmann",
+        "email": "Maria15@hotmail.com"
+      },
+      {
+        "name": "Heather Morissette",
+        "email": "Vickie_Schamberger17@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 55",
+    "instructor": "Owen Emard",
+    "description": "Desolo concido una aeneus cauda delectus pariatur ex.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=5873257087500288",
+    "duration": "8 weeks",
+    "schedule": "Sun",
+    "location": "7145 Windler Camp, Gastonchester",
+    "prerequisites": [
+      "videlicet",
+      "vaco"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "tabernus denuncio animus",
+        "content": "Antea derelinquo assentator sublime desipio rerum veritas denuncio bibo suspendo. Inventore termes assumenda perspiciatis sumo. Custodia advenio aveho thesis vomica distinctio aliquam."
+      },
+      {
+        "week": 2,
+        "topic": "crapula dedecor reiciendis",
+        "content": "Eligendi stipes explicabo corroboro triduana laborum cernuus vir aufero. Artificiose careo minus comminor. Credo mollitia curso labore excepturi volubilis animadverto."
+      }
+    ],
+    "students": [
+      {
+        "name": "Dr. William Zboncak",
+        "email": "Dock54@yahoo.com"
+      },
+      {
+        "name": "Pat Ledner",
+        "email": "Malachi.Kuvalis32@yahoo.com"
+      },
+      {
+        "name": "Daniel Hodkiewicz",
+        "email": "Tyler_Ankunding@gmail.com"
+      },
+      {
+        "name": "Lynn DuBuque",
+        "email": "Maude.Blanda49@gmail.com"
+      },
+      {
+        "name": "Alan Herzog",
+        "email": "Lloyd_Hartmann@yahoo.com"
+      },
+      {
+        "name": "Meghan Predovic",
+        "email": "Kaitlyn85@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 56",
+    "instructor": "Jim Douglas",
+    "description": "Appositus allatus voluptatem admoveo praesentium vilitas incidunt enim.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/bI5GCl/640/480",
+    "duration": "3 weeks",
+    "schedule": "Sat",
+    "location": "2758 E 8th Street, Fredericport",
+    "prerequisites": [
+      "ad",
+      "amita"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "conculco spero sursum",
+        "content": "Charisma argumentum aperio acceptus copiose attollo clibanus supplanto. Taedium ocer auxilium. Ultio speciosus cauda textilis unde adfectus coniecto omnis fuga."
+      },
+      {
+        "week": 2,
+        "topic": "acquiro defungo quisquam",
+        "content": "Veritatis magnam amplitudo tyrannus antea aeger ascisco tracto textus. Aranea thalassinus celo. Conor correptius aedificium."
+      },
+      {
+        "week": 3,
+        "topic": "laborum ustulo thymbra",
+        "content": "Ea vitium temeritas. Pecto umerus tribuo. Adficio deludo ipsam comprehendo ante animus arx trucido coniuratio vulticulus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Lois Hoeger DDS",
+        "email": "Bridie86@gmail.com"
+      },
+      {
+        "name": "Christine Turner",
+        "email": "Humberto45@yahoo.com"
+      },
+      {
+        "name": "Jermaine Gusikowski",
+        "email": "Lazaro.Lubowitz96@gmail.com"
+      },
+      {
+        "name": "Clay Bechtelar",
+        "email": "Garnett.Hirthe76@yahoo.com"
+      },
+      {
+        "name": "Shane Boyer",
+        "email": "Rasheed.Kovacek92@gmail.com"
+      },
+      {
+        "name": "Nellie Brown",
+        "email": "Kevon.Beer@yahoo.com"
+      },
+      {
+        "name": "Mattie Hilll",
+        "email": "Green_Kling@hotmail.com"
+      },
+      {
+        "name": "Melvin Osinski",
+        "email": "Rex6@yahoo.com"
+      },
+      {
+        "name": "Matthew Bode",
+        "email": "Elfrieda57@yahoo.com"
+      },
+      {
+        "name": "Dr. Tracy Schumm",
+        "email": "Stacey.Medhurst90@gmail.com"
+      },
+      {
+        "name": "Julia Lueilwitz",
+        "email": "Granville25@hotmail.com"
+      },
+      {
+        "name": "Marilyn Leannon",
+        "email": "Quentin_Strosin@gmail.com"
+      },
+      {
+        "name": "Sonya Johnson-Wiza",
+        "email": "Estella10@yahoo.com"
+      },
+      {
+        "name": "Ralph Metz",
+        "email": "Marcelino_Hegmann@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 57",
+    "instructor": "Gertrude Schmitt MD",
+    "description": "Collum curiositas delicate depono volubilis.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=5547787745755136",
+    "duration": "3 weeks",
+    "schedule": "Thu",
+    "location": "436 E 11th Street, Lake Elvie",
+    "prerequisites": [
+      "tabesco",
+      "caste"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "astrum sulum comitatus",
+        "content": "Custodia quos absorbeo. Umbra talis id clarus solium vespillo. Occaecati modi crapula summopere hic cena demonstro nemo arca."
+      },
+      {
+        "week": 2,
+        "topic": "demonstro bestia urbanus",
+        "content": "Conduco comes verecundia studio doloribus varietas. Theologus architecto caritas calcar dicta. Atavus quia cuius quidem."
+      }
+    ],
+    "students": []
+  },
+  {
+    "name": "Course 58",
+    "instructor": "Erika Kovacek III",
+    "description": "Ciminatio patrocinor suus candidus adsidue optio.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=2155625802891264",
+    "duration": "8 weeks",
+    "schedule": "Thu",
+    "location": "8473 Schaden Estates, Reganchester",
+    "prerequisites": [
+      "thema",
+      "adulatio"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "ratione eos aqua",
+        "content": "Deludo demergo derelinquo taedium apud bonus beatus explicabo custodia. Ventus quam mollitia unde defetiscor avarus suadeo. Aetas tolero votum defero curiositas."
+      }
+    ],
+    "students": [
+      {
+        "name": "Cesar Fahey MD",
+        "email": "Candace.Hintz28@hotmail.com"
+      },
+      {
+        "name": "Dr. Rickey Kulas",
+        "email": "Malika.Fahey@hotmail.com"
+      },
+      {
+        "name": "Kimberly Hyatt",
+        "email": "Everette.Becker@hotmail.com"
+      },
+      {
+        "name": "Janie Stroman",
+        "email": "Alf99@yahoo.com"
+      },
+      {
+        "name": "Veronica Harber",
+        "email": "Brock45@gmail.com"
+      },
+      {
+        "name": "Carmen Herzog",
+        "email": "Obie63@gmail.com"
+      },
+      {
+        "name": "Ronald Wolf",
+        "email": "Mathilde.Reilly@yahoo.com"
+      },
+      {
+        "name": "Edmund Raynor",
+        "email": "Jessica_Schmitt@hotmail.com"
+      },
+      {
+        "name": "Armando Rowe",
+        "email": "Alysson77@gmail.com"
+      },
+      {
+        "name": "Rodney Jakubowski MD",
+        "email": "Hillary.Kassulke@hotmail.com"
+      },
+      {
+        "name": "Pam Schuppe",
+        "email": "Lelah50@gmail.com"
+      },
+      {
+        "name": "Leah Dicki",
+        "email": "Daisy_Keeling52@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 59",
+    "instructor": "Moses Tremblay",
+    "description": "Taceo amplitudo delectatio accedo adficio argentum vaco.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/EeyZe0l6e/640/480",
+    "duration": "8 weeks",
+    "schedule": "Thu",
+    "location": "88567 Harmon Gateway, Rempelshire",
+    "prerequisites": [
+      "timidus",
+      "cum"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "varius cribro synagoga",
+        "content": "Ancilla totam assumenda desino agnitio conor acquiro demonstro alioqui. Taceo aqua pecto capillus anser. Adipisci theologus alter aduro suadeo."
+      },
+      {
+        "week": 2,
+        "topic": "tabesco aufero explicabo",
+        "content": "Coadunatio uxor terminatio adamo. Aptus odit tergum. Attero accommodo conspergo adulatio patruus vociferor tracto crudelis."
+      },
+      {
+        "week": 3,
+        "topic": "conqueror votum damnatio",
+        "content": "Unde deinde barba denuncio cognatus suscipit similique. Decet tutis aestas. Vitiosus bestia vesica crastinus et."
+      }
+    ],
+    "students": [
+      {
+        "name": "Edmond King MD",
+        "email": "Raoul.Jacobi@gmail.com"
+      },
+      {
+        "name": "Ronald Weissnat",
+        "email": "Mabelle82@hotmail.com"
+      },
+      {
+        "name": "Lela Moen",
+        "email": "Roslyn59@hotmail.com"
+      },
+      {
+        "name": "Jo Mann",
+        "email": "Jaclyn46@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 60",
+    "instructor": "Agnes Champlin PhD",
+    "description": "Taedium tepesco caecus adulescens triumphus quidem vigilo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/SjhyZ/640/480",
+    "duration": "0 weeks",
+    "schedule": "Wed",
+    "location": "6394 Haag Cliff, East Christopherworth",
+    "prerequisites": [
+      "verbum",
+      "ad"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "spiritus tergo sortitus",
+        "content": "Combibo studio facere utor ascisco cur absconditus. Verbera canis thymum aeger nobis defungo denego. Quas ciminatio venio calcar."
+      },
+      {
+        "week": 2,
+        "topic": "dapifer placeat quia",
+        "content": "Apostolus vigilo territo canto auctor uxor alveus tactus suffoco varius. Coniecto curtus soluta curo aufero damnatio thalassinus cura voluptatibus. Deprecator nisi volaticus stella denuo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Adrian Langworth",
+        "email": "Hulda50@yahoo.com"
+      },
+      {
+        "name": "Genevieve Ondricka I",
+        "email": "Susie0@hotmail.com"
+      },
+      {
+        "name": "Marco Gerlach",
+        "email": "Gabriel4@hotmail.com"
+      },
+      {
+        "name": "Clifford Rowe",
+        "email": "Chadd.King9@gmail.com"
+      },
+      {
+        "name": "Alberta Kunde",
+        "email": "Torrance_Little@yahoo.com"
+      },
+      {
+        "name": "Ana Thiel I",
+        "email": "Ola73@gmail.com"
+      },
+      {
+        "name": "Louise Crona",
+        "email": "Verner.Gerhold41@gmail.com"
+      },
+      {
+        "name": "Maria Hane",
+        "email": "Janet17@yahoo.com"
+      },
+      {
+        "name": "Harvey Haag",
+        "email": "Ezekiel_Breitenberg@yahoo.com"
+      },
+      {
+        "name": "Dr. Gayle Marvin",
+        "email": "Enola_Rohan64@gmail.com"
+      },
+      {
+        "name": "Olive Altenwerth",
+        "email": "Luis30@yahoo.com"
+      },
+      {
+        "name": "Mrs. Stella Bayer",
+        "email": "Ilene62@hotmail.com"
+      },
+      {
+        "name": "Sergio Balistreri",
+        "email": "Linwood64@yahoo.com"
+      },
+      {
+        "name": "Ross Shanahan",
+        "email": "Tiffany57@yahoo.com"
+      },
+      {
+        "name": "Gerald Hilll II",
+        "email": "Jane73@yahoo.com"
+      },
+      {
+        "name": "Tabitha Kuvalis",
+        "email": "Gaston68@hotmail.com"
+      },
+      {
+        "name": "Jeremiah Bradtke",
+        "email": "Kenny_Klocko2@gmail.com"
+      },
+      {
+        "name": "Caroline Dicki",
+        "email": "Ari16@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 61",
+    "instructor": "Lorene Beer-Veum II",
+    "description": "Cruciamentum expedita civitas.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=6062291428573184",
+    "duration": "1 weeks",
+    "schedule": "Tue",
+    "location": "125 Senger Summit, Langoshberg",
+    "prerequisites": [
+      "virga",
+      "summisse"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "abbas atrocitas astrum",
+        "content": "Explicabo solutio ratione vulgus. Succedo calcar sponte cunctatio coruscus delectus. Templum omnis attonbitus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr. Jared Hermann",
+        "email": "Eliezer.Koss12@yahoo.com"
+      },
+      {
+        "name": "Kelley Gutmann",
+        "email": "Furman_Brekke20@hotmail.com"
+      },
+      {
+        "name": "Gerardo Kautzer Jr.",
+        "email": "Hardy85@hotmail.com"
+      },
+      {
+        "name": "Miss Alicia Monahan",
+        "email": "Cordelia.Bailey25@gmail.com"
+      },
+      {
+        "name": "Carrie Collier",
+        "email": "Green84@gmail.com"
+      },
+      {
+        "name": "George Lindgren",
+        "email": "Oleta.Prosacco34@gmail.com"
+      },
+      {
+        "name": "Mr. Gordon Harvey",
+        "email": "Bennie.Hilpert@yahoo.com"
+      },
+      {
+        "name": "Pete Howe",
+        "email": "Quinton.DAmore@yahoo.com"
+      },
+      {
+        "name": "Dr. Toby Schimmel",
+        "email": "Joel_Morar@hotmail.com"
+      },
+      {
+        "name": "Ora Lehner",
+        "email": "Genevieve_Muller@yahoo.com"
+      },
+      {
+        "name": "Melvin Hand",
+        "email": "Nelson_Pouros3@hotmail.com"
+      },
+      {
+        "name": "Gladys Swaniawski",
+        "email": "Stewart_Jaskolski@gmail.com"
+      },
+      {
+        "name": "Meghan Kirlin",
+        "email": "Ciara.Mitchell91@hotmail.com"
+      },
+      {
+        "name": "Miss Rebecca Leuschke",
+        "email": "Jerome_Pfeffer-Gottlieb@yahoo.com"
+      },
+      {
+        "name": "Jana Tillman",
+        "email": "Moriah.Corkery73@hotmail.com"
+      },
+      {
+        "name": "Antonia Herzog",
+        "email": "Jewel.Bogisich@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 62",
+    "instructor": "Rolando Ritchie",
+    "description": "Appono caput vacuus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=719033408159744",
+    "duration": "7 weeks",
+    "schedule": "Mon",
+    "location": "322 Zulauf Parkways, Elianemouth",
+    "prerequisites": [
+      "degenero",
+      "creta"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "vel volutabrum crastinus",
+        "content": "Acerbitas apud coaegresco vinculum ars clamo abduco despecto esse. Adipisci capillus turba et amoveo aptus. Attonbitus amor canonicus vulgo comitatus totus truculenter aspernatur id considero."
+      }
+    ],
+    "students": [
+      {
+        "name": "Sheldon Kirlin",
+        "email": "Khalil25@gmail.com"
+      },
+      {
+        "name": "Monique Erdman",
+        "email": "Dan.Parisian65@yahoo.com"
+      },
+      {
+        "name": "Vera Schinner",
+        "email": "Jules_Cremin@yahoo.com"
+      },
+      {
+        "name": "Leon Lindgren",
+        "email": "Valentine.Lueilwitz-Cassin@hotmail.com"
+      },
+      {
+        "name": "Forrest Flatley",
+        "email": "Christop_Shanahan@gmail.com"
+      },
+      {
+        "name": "Ada Maggio",
+        "email": "Henri32@gmail.com"
+      },
+      {
+        "name": "Dr. Laurence Koelpin",
+        "email": "Kaela_Harber71@gmail.com"
+      },
+      {
+        "name": "Mr. Eugene Rath",
+        "email": "Charlotte_Berge@hotmail.com"
+      },
+      {
+        "name": "Ricky Ziemann DVM",
+        "email": "Rene_Mertz38@yahoo.com"
+      },
+      {
+        "name": "Mamie Becker PhD",
+        "email": "Camilla64@hotmail.com"
+      },
+      {
+        "name": "Marty Blick-Jenkins",
+        "email": "Antwan_Macejkovic69@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 63",
+    "instructor": "Joe Cremin",
+    "description": "Tepesco nulla vestrum laudantium claudeo depopulo viridis charisma caritas.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/VKsKn/640/480",
+    "duration": "4 weeks",
+    "schedule": "Sat",
+    "location": "996 Helene Mews, New Abigaleville",
+    "prerequisites": [
+      "sono",
+      "tametsi"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "corporis cultura vulnus",
+        "content": "Demo audio torqueo similique verecundia adnuo tempore arto. Verus atrocitas aranea demum angelus. Vere delibero textilis aequus copiose adsidue credo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Wesley Hansen V",
+        "email": "Ashleigh_Rodriguez@yahoo.com"
+      },
+      {
+        "name": "Earnest Wolff",
+        "email": "Austyn.Schimmel97@hotmail.com"
+      },
+      {
+        "name": "Jake Rau",
+        "email": "Deontae.Abshire@yahoo.com"
+      },
+      {
+        "name": "Otis Stiedemann",
+        "email": "Merl.Rohan25@hotmail.com"
+      },
+      {
+        "name": "Rosemarie Raynor",
+        "email": "Helmer73@hotmail.com"
+      },
+      {
+        "name": "Antonio Bailey",
+        "email": "Gordon_Emard27@gmail.com"
+      },
+      {
+        "name": "Erma Cummings",
+        "email": "Jaden_Hyatt25@yahoo.com"
+      },
+      {
+        "name": "Della Huel III",
+        "email": "Ezequiel.Ritchie@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 64",
+    "instructor": "Rosemarie Witting",
+    "description": "Vix conor corrupti viriliter vinitor.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=5223754697277440",
+    "duration": "2 weeks",
+    "schedule": "Fri",
+    "location": "5529 Gregorio Villages, Denesikborough",
+    "prerequisites": [
+      "cultura",
+      "trepide"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "verecundia sequi reiciendis",
+        "content": "Facilis vulgo spargo verto conturbo taceo solio in anser curiositas. Uberrime allatus conturbo beatae. Laborum stella demonstro copiose clarus communis copia aetas barba ter."
+      },
+      {
+        "week": 2,
+        "topic": "accommodo velociter rerum",
+        "content": "Calcar suasoria degero conitor vel deprecator culpa tergiversatio. Cognatus appono vero traho desidero aureus cras summa turbo xiphias. Subvenio vulticulus quia infit voro."
+      }
+    ],
+    "students": [
+      {
+        "name": "Dr. Mary Harber",
+        "email": "Kali26@gmail.com"
+      },
+      {
+        "name": "Dora Lemke Jr.",
+        "email": "Nayeli81@hotmail.com"
+      },
+      {
+        "name": "Miss Marianne Jacobson",
+        "email": "Herman42@yahoo.com"
+      },
+      {
+        "name": "Janie Rosenbaum",
+        "email": "Hazle39@gmail.com"
+      },
+      {
+        "name": "Donnie Ruecker",
+        "email": "Noemy.Leuschke16@gmail.com"
+      },
+      {
+        "name": "Bonnie Huel",
+        "email": "Bertram_Anderson@gmail.com"
+      },
+      {
+        "name": "Dr. Mack Kilback",
+        "email": "Ron42@gmail.com"
+      },
+      {
+        "name": "Lynette Schumm",
+        "email": "Sydni74@hotmail.com"
+      },
+      {
+        "name": "Corey Schulist",
+        "email": "Jamey84@gmail.com"
+      },
+      {
+        "name": "Ms. Stephanie Beer",
+        "email": "Gerard70@yahoo.com"
+      },
+      {
+        "name": "Abel Kerluke",
+        "email": "Halle20@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 65",
+    "instructor": "Gail Douglas",
+    "description": "Admoveo pecco eligendi sumo universe caste tollo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=6660166409781248",
+    "duration": "0 weeks",
+    "schedule": "Wed",
+    "location": "77755 Leffler Fall, Lake Issac",
+    "prerequisites": [
+      "titulus",
+      "centum"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "vulgo vero quam",
+        "content": "Quaerat exercitationem ambitus tumultus vulpes bibo pauper summisse desparatus. Suscipit demo depereo. Spoliatio speculum ventosus vulariter."
+      }
+    ],
+    "students": [
+      {
+        "name": "Gordon Keeling",
+        "email": "Tyrese.Bednar@yahoo.com"
+      },
+      {
+        "name": "Beatrice Smitham",
+        "email": "Zula_Douglas@gmail.com"
+      },
+      {
+        "name": "Nathan Kilback",
+        "email": "Raymond_Lubowitz@yahoo.com"
+      },
+      {
+        "name": "Bernard VonRueden",
+        "email": "Kathryn39@hotmail.com"
+      },
+      {
+        "name": "Joel Beahan III",
+        "email": "Robbie78@gmail.com"
+      },
+      {
+        "name": "Naomi Krajcik",
+        "email": "Daniella.Emmerich69@yahoo.com"
+      },
+      {
+        "name": "Chelsea Green",
+        "email": "Favian51@gmail.com"
+      },
+      {
+        "name": "Cedric Kunze-Hartmann",
+        "email": "Abner.Pouros-Hills@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 66",
+    "instructor": "Van Stark",
+    "description": "Atque exercitationem ex custodia catena dolor.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/GomRs/640/480",
+    "duration": "3 weeks",
+    "schedule": "Sat",
+    "location": "5467 Lind Gardens, Perth Amboy",
+    "prerequisites": [
+      "arbor",
+      "auxilium"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "thesaurus bellicus sustineo",
+        "content": "Cerno conforto crastinus defessus ipsam non id abeo. Amicitia talus quis caute. Iure spiculum delectus tamisium."
+      },
+      {
+        "week": 2,
+        "topic": "succurro communis conservo",
+        "content": "Ultra esse vesica non uxor arma desipio inflammatio tero. Ustilo unus rerum delibero blanditiis omnis video patior confido. Tempus cultellus utrum quae."
+      },
+      {
+        "week": 3,
+        "topic": "caput aperio basium",
+        "content": "Crebro baiulus veniam callide necessitatibus aestus pauci laborum stella. Alveus adiuvo spectaculum crudelis curvo summisse cupio turbo celo. Tero viscus communis peior."
+      }
+    ],
+    "students": []
+  },
+  {
+    "name": "Course 67",
+    "instructor": "Ebony Turner",
+    "description": "Custodia allatus aiunt synagoga abeo color vobis.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/gu8rO3gu5/640/480",
+    "duration": "4 weeks",
+    "schedule": "Sat",
+    "location": "4727 W Grand Avenue, Altadena",
+    "prerequisites": [
+      "decens",
+      "carus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "cur strenuus vomer",
+        "content": "Stella audio doloribus tabgo cavus bos subnecto. Cubo aperio deprimo paens. Argumentum aufero patruus corrupti atavus."
+      },
+      {
+        "week": 2,
+        "topic": "tamisium textilis certe",
+        "content": "Adhuc succurro magnam pecco comptus tergeo curriculum. Quam talus comparo summa tonsor crux desolo canto vinculum ulciscor. Tamquam allatus cruentus adulescens."
+      },
+      {
+        "week": 3,
+        "topic": "universe confido arx",
+        "content": "Tondeo ago adsuesco. Tersus delego sunt cribro nihil candidus eveniet distinctio. Vicissitudo autus territo eius patruus conventus coerceo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Betsy Olson",
+        "email": "Margarette.Hudson35@yahoo.com"
+      },
+      {
+        "name": "Glenn Witting",
+        "email": "Eliza76@yahoo.com"
+      },
+      {
+        "name": "Jaime Fisher",
+        "email": "Aiden.Brekke21@gmail.com"
+      },
+      {
+        "name": "Mary Rolfson V",
+        "email": "Ricardo_Christiansen@gmail.com"
+      },
+      {
+        "name": "Boyd Olson",
+        "email": "Alessandro.Hermiston97@gmail.com"
+      },
+      {
+        "name": "Mrs. Margarita Homenick",
+        "email": "Rusty_Kemmer84@hotmail.com"
+      },
+      {
+        "name": "Theodore Moore",
+        "email": "Vita23@yahoo.com"
+      },
+      {
+        "name": "Traci Bernier",
+        "email": "Marcelle23@hotmail.com"
+      },
+      {
+        "name": "Bob Schamberger",
+        "email": "Cecelia.Ankunding6@gmail.com"
+      },
+      {
+        "name": "Marco Weimann",
+        "email": "Arvel_Huel87@hotmail.com"
+      },
+      {
+        "name": "Johnnie Senger",
+        "email": "Rick_Roob37@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 68",
+    "instructor": "Elena Marquardt",
+    "description": "Dolorem aer sono paens calamitas bis tabella adipisci versus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/IyYe1NEc8/640/480",
+    "duration": "7 weeks",
+    "schedule": "Tue",
+    "location": "4592 N Railroad Street, North Lenorestead",
+    "prerequisites": [
+      "carbo",
+      "theatrum"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "demonstro villa celer",
+        "content": "Solitudo suffragium adhuc inventore dapifer cruentus caterva balbus. Ab denuncio commodo aegre avarus aeternus bardus nam. Atrox vetus apto audeo tristis depulso solio."
+      },
+      {
+        "week": 2,
+        "topic": "veritas aedificium defetiscor",
+        "content": "Amplitudo amplus aptus autus quae quisquam tamdiu tantum adsidue. Tolero appositus antepono arbustum adipiscor a. Caries sum deporto trepide abscido sonitus cognomen."
+      },
+      {
+        "week": 3,
+        "topic": "deorsum canis volutabrum",
+        "content": "Inflammatio demo texo pauci tutis corpus cultura pecco. Ultio enim cubo ustilo artificiose sit turbo decretum eveniet. Vis conculco excepturi."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mrs. Jessica Donnelly-Quigley DVM",
+        "email": "Felicita7@gmail.com"
+      },
+      {
+        "name": "Marcia Simonis",
+        "email": "Lauretta_Kemmer@hotmail.com"
+      },
+      {
+        "name": "Pablo Muller",
+        "email": "Emerald74@yahoo.com"
+      },
+      {
+        "name": "Sophie Mante-Hermiston I",
+        "email": "Marty.Weber@yahoo.com"
+      },
+      {
+        "name": "Nicole West",
+        "email": "Cordie_Pouros66@gmail.com"
+      },
+      {
+        "name": "Sammy Watsica",
+        "email": "Maximo31@yahoo.com"
+      },
+      {
+        "name": "Georgia Lockman",
+        "email": "Granville_OConnell86@hotmail.com"
+      },
+      {
+        "name": "Guadalupe Weissnat",
+        "email": "Ashton.Swift73@gmail.com"
+      },
+      {
+        "name": "Leon Block",
+        "email": "Nicklaus.Pfeffer45@yahoo.com"
+      },
+      {
+        "name": "Dexter Schaefer",
+        "email": "Talon17@hotmail.com"
+      },
+      {
+        "name": "Marcella Cremin",
+        "email": "Monique17@hotmail.com"
+      },
+      {
+        "name": "Ashley Rutherford III",
+        "email": "Rosendo.Bednar11@hotmail.com"
+      },
+      {
+        "name": "Stacey Gleichner IV",
+        "email": "Brady.Kihn39@hotmail.com"
+      },
+      {
+        "name": "Carrie Shields",
+        "email": "Marcelina.Streich24@hotmail.com"
+      },
+      {
+        "name": "Jeannie Lueilwitz",
+        "email": "Charley_Kihn@yahoo.com"
+      },
+      {
+        "name": "Otis Weimann",
+        "email": "Hailie_Littel92@hotmail.com"
+      },
+      {
+        "name": "Jaime Cartwright",
+        "email": "Maribel2@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 69",
+    "instructor": "Gwendolyn Kub",
+    "description": "Libero ara alter templum.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/j9KCTSml/640/480",
+    "duration": "0 weeks",
+    "schedule": "Sun",
+    "location": "1285 Schoen Fall, Hickleshire",
+    "prerequisites": [
+      "vulnus",
+      "suscipio"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "temporibus officiis vivo",
+        "content": "Bonus cumque desolo molestiae cunctatio debitis verus laboriosam recusandae. Ceno comptus curatio unde cuppedia benevolentia uterque. Attollo eligendi iste vulgivagus decipio."
+      },
+      {
+        "week": 2,
+        "topic": "quisquam comitatus adhuc",
+        "content": "Doloremque amplexus adamo. Commodi vester vomica solitudo quae tripudio vilis canonicus conculco eveniet. Arbitro solium accommodo cotidie copiose adsidue deficio."
+      }
+    ],
+    "students": [
+      {
+        "name": "Carrie Yost",
+        "email": "Chandler96@gmail.com"
+      },
+      {
+        "name": "Mrs. Dianna Torp",
+        "email": "Francisco16@yahoo.com"
+      },
+      {
+        "name": "Frances Crona Jr.",
+        "email": "Malika.Rohan28@hotmail.com"
+      },
+      {
+        "name": "Naomi Bartell",
+        "email": "Demetris_Pollich21@yahoo.com"
+      },
+      {
+        "name": "Johnnie Bradtke",
+        "email": "Graham92@hotmail.com"
+      },
+      {
+        "name": "Rebecca Johnston",
+        "email": "Rashawn_Hyatt10@yahoo.com"
+      },
+      {
+        "name": "Homer Collins",
+        "email": "Charlotte.Dickinson67@yahoo.com"
+      },
+      {
+        "name": "Dennis Emard",
+        "email": "Ruthie.Bednar72@yahoo.com"
+      },
+      {
+        "name": "Tony McCullough",
+        "email": "Ada42@hotmail.com"
+      },
+      {
+        "name": "Mae Bins",
+        "email": "Jazmyne.Bahringer81@yahoo.com"
+      },
+      {
+        "name": "Christopher Kuhn",
+        "email": "Conor20@hotmail.com"
+      },
+      {
+        "name": "Julia Huels",
+        "email": "Maryjane47@yahoo.com"
+      },
+      {
+        "name": "Johnnie Metz",
+        "email": "Dulce.Hoeger34@gmail.com"
+      },
+      {
+        "name": "Miss Erica Blick",
+        "email": "Ignatius.Mohr@hotmail.com"
+      },
+      {
+        "name": "Evan Hodkiewicz II",
+        "email": "Serenity_Rogahn-Adams84@gmail.com"
+      },
+      {
+        "name": "Derrick Dooley",
+        "email": "Arlo_Jacobi@yahoo.com"
+      },
+      {
+        "name": "Lionel Rohan III",
+        "email": "Davion_Kuhic28@yahoo.com"
+      },
+      {
+        "name": "Roberta Kuhic",
+        "email": "Moshe39@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 70",
+    "instructor": "Guillermo Abbott PhD",
+    "description": "Infit usque alo solitudo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/oVsFHO/640/480",
+    "duration": "5 weeks",
+    "schedule": "Fri",
+    "location": "29357 11th Street, Newport News",
+    "prerequisites": [
+      "ubi",
+      "molestias"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "claudeo aegrotatio ager",
+        "content": "Demergo undique cauda aufero ver quo casus. Conservo cado sordeo comedo. Admoneo alias testimonium volup conscendo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Winifred Schinner",
+        "email": "Hudson.Dooley@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 71",
+    "instructor": "Earnest Weissnat",
+    "description": "Antiquus agnosco umquam sursum.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/BkTYLUnF0/640/480",
+    "duration": "5 weeks",
+    "schedule": "Fri",
+    "location": "10292 Bergstrom Falls, Luettgenshire",
+    "prerequisites": [
+      "campana",
+      "vacuus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "thesis conatus suppono",
+        "content": "Surculus vicinus curo clementia conforto pecto. Decimus suadeo censura adfectus cupressus. Cohaero adamo commemoro."
+      },
+      {
+        "week": 2,
+        "topic": "catena acies viduo",
+        "content": "Repellat aeternus totidem caterva sono corrupti apto considero vitae ustilo. Abduco sui callide pauper. Textor carbo vorago curriculum defaeco suasoria arma accedo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Irvin Farrell",
+        "email": "Mason_Walsh@yahoo.com"
+      },
+      {
+        "name": "Anna Gerhold",
+        "email": "Kyra_Beer22@hotmail.com"
+      },
+      {
+        "name": "Lance Cummerata",
+        "email": "Melyna.Rutherford@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 72",
+    "instructor": "Teri Weissnat",
+    "description": "Cibo est spiculum tutamen vulgus aiunt conspergo carus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=2840420966989824",
+    "duration": "5 weeks",
+    "schedule": "Mon",
+    "location": "2484 Hagenes Route, New York",
+    "prerequisites": [
+      "pax",
+      "verecundia"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "adeptio comptus torqueo",
+        "content": "Caritas bonus coepi officiis quam conventus. Utrum decet venia vobis basium facere stipes baiulus. Thesis audio caste."
+      },
+      {
+        "week": 2,
+        "topic": "dignissimos canto aurum",
+        "content": "Auctus adeptio deleniti decipio nobis vitae attollo. Repellendus vulgo uter canis aegrotatio vos alias sed. Auxilium bellicus textilis ventus tener copia solus acervus aureus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Tammy Abbott",
+        "email": "May_Schuppe@hotmail.com"
+      },
+      {
+        "name": "Kimberly Lind",
+        "email": "Irving.Pacocha@yahoo.com"
+      },
+      {
+        "name": "Leona Krajcik",
+        "email": "Irwin.Breitenberg52@yahoo.com"
+      },
+      {
+        "name": "Caleb Schneider DDS",
+        "email": "Eryn_Powlowski@yahoo.com"
+      },
+      {
+        "name": "Lora Hoppe",
+        "email": "Annamarie5@gmail.com"
+      },
+      {
+        "name": "Dr. Johnny Rolfson",
+        "email": "Crystel36@hotmail.com"
+      },
+      {
+        "name": "Jonathan Abshire",
+        "email": "Robb.Macejkovic@yahoo.com"
+      },
+      {
+        "name": "Ginger Kautzer",
+        "email": "Lexi16@gmail.com"
+      },
+      {
+        "name": "Jeannette Dickinson-Hackett",
+        "email": "Connor.Kautzer47@gmail.com"
+      },
+      {
+        "name": "Albert Kulas DVM",
+        "email": "Rhett_Ryan47@yahoo.com"
+      },
+      {
+        "name": "Bridget Grady-Hoeger",
+        "email": "Reyes_Schowalter78@yahoo.com"
+      },
+      {
+        "name": "Daniel Marquardt III",
+        "email": "Giovanny.Jast@hotmail.com"
+      },
+      {
+        "name": "Gene Spinka",
+        "email": "Pearlie_Vandervort75@yahoo.com"
+      },
+      {
+        "name": "Mike Kulas",
+        "email": "Finn47@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 73",
+    "instructor": "Darrell Bruen",
+    "description": "Vigilo ceno tandem subito defaeco bellum.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/WirA6TUBtG/640/480",
+    "duration": "7 weeks",
+    "schedule": "Tue",
+    "location": "7942 Pinkie Knoll, Lake Nyafurt",
+    "prerequisites": [
+      "tot",
+      "carmen"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "depulso derideo cribro",
+        "content": "Cicuta bibo adhaero vir. Neque volaticus ulterius. Defleo usus soleo causa excepturi adipisci tibi cubicularis."
+      }
+    ],
+    "students": [
+      {
+        "name": "Dianne Ankunding",
+        "email": "Kelsi_Wolff84@gmail.com"
+      },
+      {
+        "name": "Jeannie Herman",
+        "email": "Shemar.Bauch60@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 74",
+    "instructor": "Ed Simonis",
+    "description": "Damno armarium damno utrum subseco careo iure.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=1630255552921600",
+    "duration": "2 weeks",
+    "schedule": "Thu",
+    "location": "40875 Howell Pass, Wichita Falls",
+    "prerequisites": [
+      "censura",
+      "ager"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "titulus demitto sulum",
+        "content": "Vorago urbanus cultellus compono charisma traho. Curatio appello canis summopere eos condico basium. Cupressus tenuis commodi."
+      },
+      {
+        "week": 2,
+        "topic": "approbo civitas cubicularis",
+        "content": "Carus desino virtus. Eaque cetera culpo. Explicabo vinco administratio adversus."
+      },
+      {
+        "week": 3,
+        "topic": "infit clarus timidus",
+        "content": "Synagoga admiratio uter amoveo antiquus coepi suspendo. Volubilis circumvenio votum depulso asperiores labore aiunt sub denuo. Nihil causa copia cura sophismata."
+      }
+    ],
+    "students": [
+      {
+        "name": "Percy Herman-Collins",
+        "email": "Bennie.Bayer@yahoo.com"
+      },
+      {
+        "name": "Melvin Monahan",
+        "email": "Ana.Lehner50@hotmail.com"
+      },
+      {
+        "name": "Doyle Schinner",
+        "email": "Asha73@hotmail.com"
+      },
+      {
+        "name": "Dr. Carroll Pfannerstill",
+        "email": "Savanna51@yahoo.com"
+      },
+      {
+        "name": "Micheal Aufderhar",
+        "email": "Jailyn25@gmail.com"
+      },
+      {
+        "name": "Clifford Bauch",
+        "email": "Kenna_Leffler@gmail.com"
+      },
+      {
+        "name": "Beulah Kutch",
+        "email": "Onie57@gmail.com"
+      },
+      {
+        "name": "Joanna Dooley",
+        "email": "Henri79@gmail.com"
+      },
+      {
+        "name": "Kim Treutel",
+        "email": "Aurelia_Rutherford-Bechtelar@gmail.com"
+      },
+      {
+        "name": "Phyllis Nolan",
+        "email": "Rogers_Thiel@yahoo.com"
+      },
+      {
+        "name": "Ms. Sylvia Kerluke",
+        "email": "Jerrold.Weber42@hotmail.com"
+      },
+      {
+        "name": "Preston Grant",
+        "email": "Elton_Lind-Stiedemann67@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 75",
+    "instructor": "Raul Bergnaum-Hudson",
+    "description": "Sponte armarium corrumpo sumptus virtus cauda trepide crur aqua.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=7979745899708416",
+    "duration": "3 weeks",
+    "schedule": "Sun",
+    "location": "484 W 4th Street, Lake Helgamouth",
+    "prerequisites": [
+      "ubi",
+      "doloribus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "alioqui uberrime decens",
+        "content": "Pel carus vereor tribuo ciminatio. Thorax amaritudo appono. Articulus adiuvo vitium creator."
+      }
+    ],
+    "students": [
+      {
+        "name": "Dr. Grace Roberts",
+        "email": "Cassie_Bradtke15@yahoo.com"
+      },
+      {
+        "name": "Miguel Schinner",
+        "email": "Graham_Collier51@hotmail.com"
+      },
+      {
+        "name": "James Satterfield",
+        "email": "Devin15@yahoo.com"
+      },
+      {
+        "name": "Mr. Jamie Cole MD",
+        "email": "Yasmeen_Langosh15@gmail.com"
+      },
+      {
+        "name": "Scott Jacobi MD",
+        "email": "Aurore47@yahoo.com"
+      },
+      {
+        "name": "Juan Bayer III",
+        "email": "Malvina.MacGyver@yahoo.com"
+      },
+      {
+        "name": "Dr. Toni Harber",
+        "email": "Junius.Fay@hotmail.com"
+      },
+      {
+        "name": "Lionel Balistreri",
+        "email": "Lillian.Funk@hotmail.com"
+      },
+      {
+        "name": "Miss Sheryl Jacobs",
+        "email": "Kasey80@gmail.com"
+      },
+      {
+        "name": "Ada Lind",
+        "email": "Stone38@yahoo.com"
+      },
+      {
+        "name": "Vincent Jakubowski",
+        "email": "Neva_Price71@hotmail.com"
+      },
+      {
+        "name": "Jeff Cole",
+        "email": "Immanuel6@yahoo.com"
+      },
+      {
+        "name": "Katherine Legros",
+        "email": "Abagail86@hotmail.com"
+      },
+      {
+        "name": "Shelia Hegmann",
+        "email": "Dereck25@yahoo.com"
+      },
+      {
+        "name": "Anthony Bosco",
+        "email": "River.Gorczany11@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 76",
+    "instructor": "Ms. Della Osinski",
+    "description": "Cui depopulo coma tergeo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/uUbWTXl/640/480",
+    "duration": "3 weeks",
+    "schedule": "Mon",
+    "location": "672 Leon Mountain, Port Halie",
+    "prerequisites": [
+      "adaugeo",
+      "ulterius"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "averto pectus vehemens",
+        "content": "Summopere temeritas ambulo labore umbra blandior sophismata. Nobis stips debilito cilicium turba. Demoror bellum agnitio sophismata."
+      },
+      {
+        "week": 2,
+        "topic": "comitatus peior subiungo",
+        "content": "Pectus decipio somnus conitor acerbitas curo arcesso calco colo tabernus. Demens tam vinculum velut depono astrum qui claro. Nesciunt amaritudo cupio brevis sortitus quidem adsum."
+      },
+      {
+        "week": 3,
+        "topic": "cibo ait conforto",
+        "content": "Spes crustulum tunc dolore caute titulus. Officiis vis deripio dedecor argentum error curriculum cras avaritia atqui. Paulatim delicate vulticulus ventus tui."
+      }
+    ],
+    "students": [
+      {
+        "name": "Rafael Jast",
+        "email": "Freeda_Leffler@hotmail.com"
+      },
+      {
+        "name": "Vanessa Wiza DDS",
+        "email": "Ryann_Funk@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 77",
+    "instructor": "Ms. Myrtle Williamson",
+    "description": "Distinctio alii decipio tenetur volo delicate.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=6191108363124736",
+    "duration": "9 weeks",
+    "schedule": "Tue",
+    "location": "3774 Priory Road, Fort Ariellefield",
+    "prerequisites": [
+      "qui",
+      "compono"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "ad coadunatio utrum",
+        "content": "Defungo adhuc placeat ter minima auxilium tego. Usque speculum calculus. Aperio abbas exercitationem."
+      },
+      {
+        "week": 2,
+        "topic": "supra ducimus textilis",
+        "content": "Cerno claustrum vulticulus spargo admiratio. Decretum torqueo thalassinus bos. Uredo spoliatio demens."
+      }
+    ],
+    "students": [
+      {
+        "name": "Nora Stokes",
+        "email": "Dudley.Abernathy@gmail.com"
+      },
+      {
+        "name": "Inez Morissette DDS",
+        "email": "Joanny67@hotmail.com"
+      },
+      {
+        "name": "Stephen Kertzmann",
+        "email": "Bettie_Halvorson27@yahoo.com"
+      },
+      {
+        "name": "Darryl Stracke",
+        "email": "Veda_Braun@yahoo.com"
+      },
+      {
+        "name": "Natalie Gleichner",
+        "email": "Cornell.Terry-Nitzsche@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 78",
+    "instructor": "Sophie Hackett",
+    "description": "Decet patruus absum demum cuppedia peior bardus cogo defero temeritas.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/IjSFljNAn/640/480",
+    "duration": "7 weeks",
+    "schedule": "Tue",
+    "location": "7547 Beech Close, Raefurt",
+    "prerequisites": [
+      "derelinquo",
+      "cernuus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "sursum cubicularis subvenio",
+        "content": "Vehemens summopere casso minima. Aggero vergo absque cimentarius summisse aptus summa acquiro deporto pecco. Adipisci universe deorsum tempore."
+      }
+    ],
+    "students": [
+      {
+        "name": "Micheal Ullrich",
+        "email": "Raul51@yahoo.com"
+      },
+      {
+        "name": "Jeremiah Harvey",
+        "email": "Patsy55@hotmail.com"
+      },
+      {
+        "name": "Donna Donnelly",
+        "email": "Velda62@yahoo.com"
+      },
+      {
+        "name": "Marilyn Torp",
+        "email": "Unique5@hotmail.com"
+      },
+      {
+        "name": "Tara Kertzmann",
+        "email": "Vivianne_Shanahan@yahoo.com"
+      },
+      {
+        "name": "Jana Bashirian",
+        "email": "Travis.OKon84@gmail.com"
+      },
+      {
+        "name": "Albert Little",
+        "email": "Gianni77@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 79",
+    "instructor": "Luther Boyle",
+    "description": "Degusto argentum illum utroque laborum comparo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/ocNNO/640/480",
+    "duration": "9 weeks",
+    "schedule": "Mon",
+    "location": "8861 Grayson Groves, South Doyle",
+    "prerequisites": [
+      "derideo",
+      "speculum"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "arcus bardus ustilo",
+        "content": "Temporibus denego tamquam alveus quis ater. At cupio alius nihil ab vesper abundans. Natus vespillo defungo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Drew Miller",
+        "email": "Lambert_Connelly@gmail.com"
+      },
+      {
+        "name": "Ramiro Wisozk",
+        "email": "Jack.Bashirian33@hotmail.com"
+      },
+      {
+        "name": "Dr. Catherine Crona",
+        "email": "Hadley.Cremin@gmail.com"
+      },
+      {
+        "name": "Dr. Maxine Greenfelder",
+        "email": "Vernice_Kub34@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 80",
+    "instructor": "Diane Purdy DDS",
+    "description": "Vomica spes una aggero volutabrum ancilla aer vinum spiculum surculus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/KSRGM9E2/640/480",
+    "duration": "6 weeks",
+    "schedule": "Tue",
+    "location": "9775 Pouros Spring, Fort Cortez",
+    "prerequisites": [
+      "arbitro",
+      "culpo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "causa suggero vaco",
+        "content": "Vulpes custodia appello currus. Vapulus quasi tabernus harum. Quia solium vae."
+      },
+      {
+        "week": 2,
+        "topic": "pauci depulso carpo",
+        "content": "Aperio sperno tempore conicio thesaurus trans truculenter curiositas ad degusto. Possimus strues anser aestivus decipio nemo trans trepide. Tui pauper advenio supellex minus alioqui dicta adhuc cenaculum."
+      },
+      {
+        "week": 3,
+        "topic": "conscendo certe vel",
+        "content": "Quos eligendi trado tripudio. Terebro temporibus vitiosus. Acies alii pauper cura."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr. Carlton Ullrich",
+        "email": "Calista.Ritchie@hotmail.com"
+      },
+      {
+        "name": "Jermaine Herzog-Klein",
+        "email": "Aimee8@hotmail.com"
+      },
+      {
+        "name": "Elizabeth Hegmann",
+        "email": "Darwin.Hauck49@gmail.com"
+      },
+      {
+        "name": "Robin Monahan",
+        "email": "Carli.Crona7@yahoo.com"
+      },
+      {
+        "name": "Mr. Ruben Greenholt",
+        "email": "Ara_Buckridge42@hotmail.com"
+      },
+      {
+        "name": "Lance Pagac",
+        "email": "Payton_Dicki@gmail.com"
+      },
+      {
+        "name": "Mark Jakubowski",
+        "email": "Geovany84@hotmail.com"
+      },
+      {
+        "name": "Miss Faith Kutch",
+        "email": "Timmothy_McClure95@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 81",
+    "instructor": "Andres Smith",
+    "description": "Terror corroboro tabgo sunt tamquam thymbra viriliter truculenter.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/voVRUkLn9/640/480",
+    "duration": "8 weeks",
+    "schedule": "Sat",
+    "location": "990 W 3rd Street, Vonfield",
+    "prerequisites": [
+      "delibero",
+      "sum"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "demergo excepturi carmen",
+        "content": "Tabesco sto textor aggredior capto vigor supplanto concedo cohaero. Coma aurum crudelis umquam combibo aqua itaque aestas taceo alienus. Argumentum peior degenero sequi conduco maiores."
+      }
+    ],
+    "students": [
+      {
+        "name": "Sandra Kozey",
+        "email": "Marianne_Steuber36@yahoo.com"
+      },
+      {
+        "name": "Carroll Douglas",
+        "email": "Leland1@hotmail.com"
+      },
+      {
+        "name": "Lorena Turner",
+        "email": "Zoey_Romaguera66@yahoo.com"
+      },
+      {
+        "name": "Kelly Crist",
+        "email": "Arch_Mann36@yahoo.com"
+      },
+      {
+        "name": "Dominick Langworth",
+        "email": "Ardella_Reinger48@yahoo.com"
+      },
+      {
+        "name": "Edith Rau",
+        "email": "Lorenz39@gmail.com"
+      },
+      {
+        "name": "Bessie Aufderhar",
+        "email": "Russell.Graham@gmail.com"
+      },
+      {
+        "name": "Roberto Bahringer",
+        "email": "Kareem_Williamson58@hotmail.com"
+      },
+      {
+        "name": "Rita Gutkowski",
+        "email": "Stefan15@hotmail.com"
+      },
+      {
+        "name": "Shelly Haag",
+        "email": "Krystel.Trantow@yahoo.com"
+      },
+      {
+        "name": "Marty O'Reilly",
+        "email": "Louvenia_Gerhold@yahoo.com"
+      },
+      {
+        "name": "Dr. Jean Barrows Jr.",
+        "email": "Kendrick54@gmail.com"
+      },
+      {
+        "name": "Celia Abshire",
+        "email": "Roderick.Blick27@hotmail.com"
+      },
+      {
+        "name": "Lana Beatty IV",
+        "email": "Dillan.OKeefe@hotmail.com"
+      },
+      {
+        "name": "Thomas Prosacco PhD",
+        "email": "Julius95@hotmail.com"
+      },
+      {
+        "name": "Tanya Mayer MD",
+        "email": "Deon_Dibbert-Thiel27@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 82",
+    "instructor": "Nathan Sipes",
+    "description": "Ulciscor arca consequuntur abundans maiores unde colo tenax bestia caritas.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/5znzL/640/480",
+    "duration": "3 weeks",
+    "schedule": "Wed",
+    "location": "8272 E Maple Street, East Ginoton",
+    "prerequisites": [
+      "abscido",
+      "conor"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "totus ventosus vir",
+        "content": "Tonsor vestigium beatae. Veritas asper aedificium turba. Illo nisi crastinus ducimus thalassinus via."
+      }
+    ],
+    "students": [
+      {
+        "name": "Andrew Collins",
+        "email": "Lesly73@hotmail.com"
+      },
+      {
+        "name": "Mr. Preston Paucek",
+        "email": "Flo_Wuckert@gmail.com"
+      },
+      {
+        "name": "Frank Feil",
+        "email": "Raphael72@yahoo.com"
+      },
+      {
+        "name": "Jordan Ferry",
+        "email": "Fausto.Howe13@yahoo.com"
+      },
+      {
+        "name": "Devin Stiedemann",
+        "email": "Webster.Bartell@hotmail.com"
+      },
+      {
+        "name": "Leon Keeling",
+        "email": "Nat.Wintheiser46@yahoo.com"
+      },
+      {
+        "name": "Penny Konopelski",
+        "email": "Kirsten.Friesen33@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 83",
+    "instructor": "Wallace Schuppe",
+    "description": "Advoco canto alii tabella.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=6662131002900480",
+    "duration": "2 weeks",
+    "schedule": "Sat",
+    "location": "26600 Grange Close, Tremblayfurt",
+    "prerequisites": [
+      "alter",
+      "tenetur"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "veritas colo advenio",
+        "content": "Aeternus tantillus sto. Videlicet defleo accommodo ubi viriliter. Beatus facere curia defendo creo arto necessitatibus addo terminatio."
+      }
+    ],
+    "students": [
+      {
+        "name": "Aubrey Schroeder",
+        "email": "Eleanore_Johnston@gmail.com"
+      },
+      {
+        "name": "Kathleen Cronin",
+        "email": "Julien_Keeling@yahoo.com"
+      },
+      {
+        "name": "Martin Schowalter",
+        "email": "Vivian.Abbott@gmail.com"
+      },
+      {
+        "name": "Mr. Fredrick Murray",
+        "email": "Bobbie.Connelly@gmail.com"
+      },
+      {
+        "name": "Vanessa Ortiz",
+        "email": "Petra59@hotmail.com"
+      },
+      {
+        "name": "Cesar Quigley",
+        "email": "Josue77@gmail.com"
+      },
+      {
+        "name": "Joanne Moen",
+        "email": "Eldon29@yahoo.com"
+      },
+      {
+        "name": "Ms. Janet Bogisich",
+        "email": "Coleman_Hickle83@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 84",
+    "instructor": "Wendell Raynor IV",
+    "description": "Adulatio tum civis cariosus temperantia video numquam sursum ab.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/WWzPg2pD/640/480",
+    "duration": "3 weeks",
+    "schedule": "Sun",
+    "location": "32394 West Lane, North Ellisshire",
+    "prerequisites": [
+      "usus",
+      "adipisci"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "taceo aequus condico",
+        "content": "Contigo copia non apostolus. Corpus dolorem recusandae sulum argumentum. Atavus asporto tego deprecator."
+      }
+    ],
+    "students": [
+      {
+        "name": "Jan Gerhold",
+        "email": "Edythe12@hotmail.com"
+      },
+      {
+        "name": "Ian Waters",
+        "email": "Eriberto62@yahoo.com"
+      },
+      {
+        "name": "Delbert Schoen",
+        "email": "London28@hotmail.com"
+      },
+      {
+        "name": "Lowell Metz",
+        "email": "Lexus.Ratke2@hotmail.com"
+      },
+      {
+        "name": "Eileen Mante",
+        "email": "Breanne.Schuppe-Hermann43@yahoo.com"
+      },
+      {
+        "name": "Henrietta Bechtelar",
+        "email": "Hazle_Herzog6@hotmail.com"
+      },
+      {
+        "name": "Tommy Renner",
+        "email": "Furman_Farrell@yahoo.com"
+      },
+      {
+        "name": "Dr. Valerie Schneider",
+        "email": "Quinton43@gmail.com"
+      },
+      {
+        "name": "Colin Abernathy",
+        "email": "Moshe_Hansen27@gmail.com"
+      },
+      {
+        "name": "Joel Bauch",
+        "email": "Grace_Sipes-Cormier@yahoo.com"
+      },
+      {
+        "name": "Inez Dickinson MD",
+        "email": "Rashad.Wisoky14@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 85",
+    "instructor": "Jeanne Larson",
+    "description": "Culpo aro creptio arguo tibi venustas nostrum adficio.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=6084822583738368",
+    "duration": "0 weeks",
+    "schedule": "Wed",
+    "location": "1257 Russel Spur, Margate",
+    "prerequisites": [
+      "creta",
+      "suppellex"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "adfectus cariosus eius",
+        "content": "Capitulus adversus beatae maiores curis suffoco cruentus curriculum nulla capio. Caelum defungo sub. Ulciscor amet eos sophismata venustas."
+      },
+      {
+        "week": 2,
+        "topic": "traho curis carmen",
+        "content": "Clibanus chirographum abutor adnuo. Clamo cur abscido confido crastinus absque absorbeo. Curia arceo ceno dedico umquam acidus vitiosus exercitationem tepesco aestivus."
+      },
+      {
+        "week": 3,
+        "topic": "celo spes arcus",
+        "content": "Synagoga texo tamisium. Adopto vinum ceno vesica depulso omnis audentia defero aspicio amplitudo. Sequi porro sollicito aggredior antiquus spectaculum appositus conculco."
+      }
+    ],
+    "students": [
+      {
+        "name": "Rebecca Adams",
+        "email": "Katlyn_Kirlin@yahoo.com"
+      },
+      {
+        "name": "Miss Marsha Cummerata",
+        "email": "Jailyn.Koepp91@gmail.com"
+      },
+      {
+        "name": "Miss Kristen Murazik",
+        "email": "Colton.Ebert@yahoo.com"
+      },
+      {
+        "name": "Dianne Fay",
+        "email": "Kavon.Ortiz70@yahoo.com"
+      },
+      {
+        "name": "Ben Stehr",
+        "email": "Victor_Ziemann-Pouros55@gmail.com"
+      },
+      {
+        "name": "Roy Bogan",
+        "email": "Carmine_Haag@yahoo.com"
+      },
+      {
+        "name": "Glenda Lind",
+        "email": "Josiane.Corkery@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 86",
+    "instructor": "Mrs. Rosemary Bins",
+    "description": "Usitas fugit defungo velociter rem tergo torrens supellex absum texo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/AGnBx/640/480",
+    "duration": "3 weeks",
+    "schedule": "Fri",
+    "location": "191 Emard Pines, Cheyenne",
+    "prerequisites": [
+      "avaritia",
+      "corporis"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "synagoga aspernatur beatus",
+        "content": "Degusto amita blandior tergo decerno hic spero vulnero. Synagoga ustulo strenuus teres qui volaticus veritatis adeo tantillus. Voco magni demoror."
+      },
+      {
+        "week": 2,
+        "topic": "depono xiphias coniuratio",
+        "content": "Alveus civitas deserunt tredecim utrum. Verbera trado corporis adversus aestas corporis supplanto corroboro. Convoco amor tremo bellum."
+      }
+    ],
+    "students": [
+      {
+        "name": "Karla Jerde",
+        "email": "May_Grimes10@hotmail.com"
+      },
+      {
+        "name": "Leo Wolff",
+        "email": "Nellie.Monahan93@gmail.com"
+      },
+      {
+        "name": "Terry Dicki",
+        "email": "Alycia32@yahoo.com"
+      },
+      {
+        "name": "Heather Brakus",
+        "email": "Emmanuel.Lindgren@yahoo.com"
+      },
+      {
+        "name": "Tom Paucek",
+        "email": "Alvina_Paucek@yahoo.com"
+      },
+      {
+        "name": "Jody Cummings",
+        "email": "Paige_Medhurst@hotmail.com"
+      },
+      {
+        "name": "Darlene Toy",
+        "email": "Helene.Orn1@gmail.com"
+      },
+      {
+        "name": "Omar Mraz",
+        "email": "Leila73@gmail.com"
+      },
+      {
+        "name": "Clarence Labadie",
+        "email": "Gilda87@gmail.com"
+      },
+      {
+        "name": "Willie Bergnaum",
+        "email": "Lorenz39@hotmail.com"
+      },
+      {
+        "name": "Ernestine Grady",
+        "email": "Gretchen5@yahoo.com"
+      },
+      {
+        "name": "Casey Marvin",
+        "email": "Arlene_Halvorson52@yahoo.com"
+      },
+      {
+        "name": "Sarah Abshire",
+        "email": "Veda_Collier5@yahoo.com"
+      },
+      {
+        "name": "Sam King",
+        "email": "Madelyn14@yahoo.com"
+      },
+      {
+        "name": "Lana Franey",
+        "email": "Kailyn57@gmail.com"
+      },
+      {
+        "name": "Brad Treutel",
+        "email": "Ottis27@gmail.com"
+      },
+      {
+        "name": "Kim Mitchell",
+        "email": "Leonardo_OConnell@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 87",
+    "instructor": "Enrique Heaney",
+    "description": "Arguo calco taedium suspendo amitto usque cum tremo cerno labore.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=1133824316538880",
+    "duration": "8 weeks",
+    "schedule": "Sat",
+    "location": "295 Enos Walks, South Verner",
+    "prerequisites": [
+      "voluptatum",
+      "pecus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "tempore adinventitias curiositas",
+        "content": "Sono sortitus balbus adsidue caute tracto combibo bos aurum cattus. Angelus admitto video coerceo consequuntur ago tutis unde. Audentia attonbitus cotidie thymbra."
+      },
+      {
+        "week": 2,
+        "topic": "aggero decipio copiose",
+        "content": "Explicabo solvo crepusculum tenus urbs ara ascit appono cohibeo. Sophismata distinctio atque cognomen voluptates ara. Sperno territo utrimque compello desino vox basium subiungo thermae."
+      },
+      {
+        "week": 3,
+        "topic": "acervus unus baiulus",
+        "content": "Advenio adipisci assumenda vigilo uredo sopor concido. Vomito cursus adimpleo adfero statua libero. Demergo optio adipiscor deputo spectaculum tracto."
+      }
+    ],
+    "students": [
+      {
+        "name": "Hannah Stamm",
+        "email": "Zachary_Kozey@gmail.com"
+      },
+      {
+        "name": "Lee Hauck",
+        "email": "Rodrigo_Jaskolski@yahoo.com"
+      },
+      {
+        "name": "Arthur Kuhic",
+        "email": "Leda_Weber@gmail.com"
+      },
+      {
+        "name": "Lauren Huel",
+        "email": "Joe.Klocko@gmail.com"
+      },
+      {
+        "name": "Bethany Hickle",
+        "email": "Zackery.Bins14@hotmail.com"
+      },
+      {
+        "name": "Lorenzo Berge PhD",
+        "email": "Demond35@gmail.com"
+      },
+      {
+        "name": "Maureen Kozey",
+        "email": "Jaylon.Hudson@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 88",
+    "instructor": "Faith Koepp",
+    "description": "Sol virga optio animi ullus debitis suppellex quam.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=5513811536642048",
+    "duration": "3 weeks",
+    "schedule": "Sat",
+    "location": "108 Neal Estate, League City",
+    "prerequisites": [
+      "adamo",
+      "solitudo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "aiunt vinitor sumptus",
+        "content": "Viriliter vehemens cito cohibeo laboriosam depraedor deludo baiulus acies acerbitas. Audentia ultio brevis conqueror alii admiratio balbus cena aestus arcesso. Sed celo acer contra error utpote."
+      }
+    ],
+    "students": []
+  },
+  {
+    "name": "Course 89",
+    "instructor": "Sylvia Cole",
+    "description": "Trepide triduana villa creber excepturi.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/L7pq5NU4v/640/480",
+    "duration": "7 weeks",
+    "schedule": "Thu",
+    "location": "75804 Dietrich Mission, Ankundingboro",
+    "prerequisites": [
+      "corroboro",
+      "conatus"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "administratio coerceo debitis",
+        "content": "Celo tres tenetur totus tergeo. Dedecor porro vallum beatae corona. Umerus auxilium crinis tabula curto aer tenetur vinculum cohaero vaco."
+      },
+      {
+        "week": 2,
+        "topic": "suadeo adinventitias stella",
+        "content": "Quod tunc utor. Usque attollo apparatus aliquid excepturi victus. Molestiae asper sophismata cunabula deporto cerno tero degenero circumvenio."
+      }
+    ],
+    "students": [
+      {
+        "name": "Mona Becker",
+        "email": "Mozelle3@hotmail.com"
+      },
+      {
+        "name": "Tami Grimes",
+        "email": "Torrey12@gmail.com"
+      },
+      {
+        "name": "Hattie Abshire",
+        "email": "Wilfrid21@hotmail.com"
+      },
+      {
+        "name": "Virgil Jacobi IV",
+        "email": "Alison_Conn40@hotmail.com"
+      },
+      {
+        "name": "Josefina Dickinson",
+        "email": "Leola_Pagac62@yahoo.com"
+      },
+      {
+        "name": "Mr. Marty Buckridge",
+        "email": "Waldo.Jacobson@yahoo.com"
+      },
+      {
+        "name": "Kristie Dooley",
+        "email": "Connie23@gmail.com"
+      },
+      {
+        "name": "Sherry Hane",
+        "email": "Beatrice.Stracke@hotmail.com"
+      },
+      {
+        "name": "Aubrey Schaden",
+        "email": "Cameron60@yahoo.com"
+      },
+      {
+        "name": "Philip Moen-Hackett",
+        "email": "Alfonso.Kub82@yahoo.com"
+      },
+      {
+        "name": "Diana Ferry",
+        "email": "Elroy.Cruickshank81@yahoo.com"
+      },
+      {
+        "name": "Mattie Dibbert",
+        "email": "Edwardo_Brown-King@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 90",
+    "instructor": "Joan Mosciski",
+    "description": "Ut adsum tabernus comparo.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/ylxswUnWZ2/640/480",
+    "duration": "5 weeks",
+    "schedule": "Sat",
+    "location": "24890 N High Street, Kuhlmanside",
+    "prerequisites": [
+      "consuasor",
+      "verumtamen"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "usitas varius magni",
+        "content": "Pecco vita agnitio aggero tergum defungo similique alias tamquam conforto. Aequitas ultra consuasor cariosus civitas cultellus talio vix terror summa. Crux quidem carpo doloremque comparo antepono votum atavus fugit."
+      }
+    ],
+    "students": [
+      {
+        "name": "Jessica Schaden",
+        "email": "Kole.Anderson@yahoo.com"
+      },
+      {
+        "name": "Rachel Lemke",
+        "email": "Anna_OHara-Davis@gmail.com"
+      },
+      {
+        "name": "Shannon Klein",
+        "email": "Sonia_Friesen52@gmail.com"
+      },
+      {
+        "name": "Jessica Goldner DVM",
+        "email": "Marilie.Schulist@yahoo.com"
+      },
+      {
+        "name": "Suzanne Wilderman",
+        "email": "Caitlyn54@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 91",
+    "instructor": "Edgar O'Hara-Johnson",
+    "description": "Appositus verbum facere votum voluptatibus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/VIbD6jh6/640/480",
+    "duration": "1 weeks",
+    "schedule": "Thu",
+    "location": "794 W Maple Street, East Hartford",
+    "prerequisites": [
+      "studio",
+      "denuo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "depulso ultra cito",
+        "content": "Urbs aureus cenaculum tenetur. Aurum viridis communis caelestis copia aeternus aer vomer. Odio suadeo terminatio vaco assentator."
+      },
+      {
+        "week": 2,
+        "topic": "molestias vulticulus subseco",
+        "content": "Corrigo spargo calculus thymbra clamo illo compono attero cogo sum. Thema natus armarium tricesimus cresco annus. Cognomen degero atavus casus depromo acer cohaero bestia."
+      }
+    ],
+    "students": [
+      {
+        "name": "Grady Murphy",
+        "email": "Willie.Franey49@yahoo.com"
+      },
+      {
+        "name": "Misty Baumbach",
+        "email": "Brandon_Sporer-Little95@yahoo.com"
+      },
+      {
+        "name": "Jessie Hauck-Rowe",
+        "email": "Margot0@gmail.com"
+      },
+      {
+        "name": "Wilfred Mraz",
+        "email": "Tyrique.Larkin@hotmail.com"
+      },
+      {
+        "name": "Kimberly Beatty",
+        "email": "Icie.Pacocha93@gmail.com"
+      },
+      {
+        "name": "Luke Gleichner",
+        "email": "Loma.Leannon@yahoo.com"
+      },
+      {
+        "name": "Lucille Stark",
+        "email": "Hans.Denesik47@yahoo.com"
+      },
+      {
+        "name": "Alice Stroman",
+        "email": "Jalen59@yahoo.com"
+      },
+      {
+        "name": "Sara Leannon",
+        "email": "Marina45@yahoo.com"
+      },
+      {
+        "name": "Lucille Dooley",
+        "email": "Orion.Olson@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 92",
+    "instructor": "Mr. Lewis Towne",
+    "description": "Vinitor occaecati dolor contra.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=8634040550686720",
+    "duration": "7 weeks",
+    "schedule": "Thu",
+    "location": "82074 Commercial Street, Lake Myrtis",
+    "prerequisites": [
+      "vigor",
+      "vulariter"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "tumultus cognomen autus",
+        "content": "Vulticulus suppono cicuta aegrotatio cubo dedico cilicium varius cena. Adeo defendo voluntarius vinco demoror cursus. Delicate crur curto carmen quasi apostolus crux usus itaque sub."
+      },
+      {
+        "week": 2,
+        "topic": "hic abbas aperiam",
+        "content": "Urbanus tunc aurum callide. Aduro solutio accusator adfectus. Tenax statua tubineus aggero inventore tubineus adulatio minima crapula."
+      },
+      {
+        "week": 3,
+        "topic": "supra curo crustulum",
+        "content": "Deduco vicissitudo eligendi bestia anser tenuis aestivus articulus surculus aperiam. Angelus pecus conscendo calculus canis arto labore. Deludo debeo absconditus corrigo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Elizabeth Toy",
+        "email": "Demario33@gmail.com"
+      },
+      {
+        "name": "Jared Hermann",
+        "email": "Jaron11@yahoo.com"
+      },
+      {
+        "name": "Darrel Durgan",
+        "email": "Everette.Walsh@gmail.com"
+      },
+      {
+        "name": "Dixie Buckridge",
+        "email": "Dewitt_Koelpin5@yahoo.com"
+      },
+      {
+        "name": "Christine Bartoletti",
+        "email": "Willow.Padberg@yahoo.com"
+      },
+      {
+        "name": "Devin O'Connell",
+        "email": "Sabrina_Green@yahoo.com"
+      },
+      {
+        "name": "Yvonne Upton",
+        "email": "Eugenia_Koepp64@hotmail.com"
+      },
+      {
+        "name": "Robin Stanton",
+        "email": "Dannie.Prosacco@hotmail.com"
+      },
+      {
+        "name": "Derek Barrows",
+        "email": "Ian_Haag@yahoo.com"
+      },
+      {
+        "name": "Lawrence Wintheiser",
+        "email": "Dorian34@yahoo.com"
+      },
+      {
+        "name": "April Farrell DVM",
+        "email": "Bonita81@yahoo.com"
+      },
+      {
+        "name": "Ramon Bogan",
+        "email": "Horacio_Rosenbaum@hotmail.com"
+      },
+      {
+        "name": "Rene Buckridge",
+        "email": "Mittie.Schroeder@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 93",
+    "instructor": "Franklin O'Reilly",
+    "description": "Demergo corrigo peccatus incidunt quis.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/JkvZe/640/480",
+    "duration": "9 weeks",
+    "schedule": "Sun",
+    "location": "9209 Nels Stravenue, Schoenworth",
+    "prerequisites": [
+      "cui",
+      "repellat"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "sopor validus suspendo",
+        "content": "Aperiam vulgus corrigo pecto curso tamisium. Amoveo ocer triduana corona defaeco ultio sui solium adnuo conicio. Adstringo ancilla texo vespillo vetus statim facilis universe alo."
+      },
+      {
+        "week": 2,
+        "topic": "conservo corroboro vobis",
+        "content": "Sono absque viriliter volubilis summopere uter verus cotidie. Sopor alias nihil vomito cetera soluta vita. Beatus cunabula odio apostolus stillicidium sufficio complectus spiritus alveus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Hannah Gutmann DDS",
+        "email": "Hester29@gmail.com"
+      },
+      {
+        "name": "Charlene Farrell",
+        "email": "Melyna.Kulas96@yahoo.com"
+      },
+      {
+        "name": "Willie Hirthe Jr.",
+        "email": "Emmet_Bogan49@gmail.com"
+      },
+      {
+        "name": "Debbie Swift",
+        "email": "Emilie56@gmail.com"
+      },
+      {
+        "name": "Erik Carter",
+        "email": "Therese.Kiehn@hotmail.com"
+      },
+      {
+        "name": "Herbert Rath",
+        "email": "Elfrieda79@hotmail.com"
+      },
+      {
+        "name": "Dr. Shawn Schowalter",
+        "email": "King_Glover85@gmail.com"
+      },
+      {
+        "name": "Clark Weber",
+        "email": "Jayde_Hayes8@hotmail.com"
+      },
+      {
+        "name": "Mr. Darin Schuster",
+        "email": "Sophie.Halvorson71@yahoo.com"
+      },
+      {
+        "name": "Bradley Hane V",
+        "email": "Chaim.Leannon@yahoo.com"
+      },
+      {
+        "name": "Tricia Schulist",
+        "email": "Jamaal65@yahoo.com"
+      },
+      {
+        "name": "Miss Patsy Lynch",
+        "email": "Gerard91@hotmail.com"
+      },
+      {
+        "name": "Dr. Eva Blanda",
+        "email": "Ahmed.MacGyver31@yahoo.com"
+      },
+      {
+        "name": "Conrad Renner",
+        "email": "Werner_Christiansen2@hotmail.com"
+      },
+      {
+        "name": "Hugh Koss PhD",
+        "email": "Andre_Legros75@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 94",
+    "instructor": "Kelli Goyette",
+    "description": "Defungo audeo quibusdam provident.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=1879195646951424",
+    "duration": "1 weeks",
+    "schedule": "Fri",
+    "location": "5845 Nicolas Circles, East Tressie",
+    "prerequisites": [
+      "ancilla",
+      "at"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "eum supra autem",
+        "content": "Dolorum annus xiphias aranea umerus aut. Surgo vereor agnitio tres aut concedo. Exercitationem attero aptus tergeo testimonium valde aestas."
+      }
+    ],
+    "students": [
+      {
+        "name": "Grady Hand MD",
+        "email": "Clarissa_Schultz43@yahoo.com"
+      },
+      {
+        "name": "Blanca Smitham",
+        "email": "Estevan.Crist@gmail.com"
+      },
+      {
+        "name": "Enrique Kovacek",
+        "email": "Marlin_Yost35@yahoo.com"
+      },
+      {
+        "name": "Noah Friesen",
+        "email": "Dorothea25@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 95",
+    "instructor": "Lois Goyette",
+    "description": "Cunae fuga crapula.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/sHqsX/640/480",
+    "duration": "3 weeks",
+    "schedule": "Thu",
+    "location": "8677 Station Street, Zacheryside",
+    "prerequisites": [
+      "volva",
+      "corrumpo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "decet enim aliqua",
+        "content": "Acies vitae iste culpa. Terra ullus antepono supra vacuus annus conventus. Catena cum cognatus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Simon Langosh",
+        "email": "Misael20@hotmail.com"
+      },
+      {
+        "name": "Courtney Borer",
+        "email": "Leta6@hotmail.com"
+      },
+      {
+        "name": "Sylvester Oberbrunner",
+        "email": "Haskell68@yahoo.com"
+      },
+      {
+        "name": "Lynn Lueilwitz",
+        "email": "Alda53@yahoo.com"
+      },
+      {
+        "name": "Gene Huels",
+        "email": "Gabriel_Bayer@hotmail.com"
+      },
+      {
+        "name": "Johnnie Kreiger",
+        "email": "Jaren44@hotmail.com"
+      },
+      {
+        "name": "Laverne Stark",
+        "email": "Aron.Hamill55@gmail.com"
+      },
+      {
+        "name": "Michelle Kohler",
+        "email": "Easter81@gmail.com"
+      },
+      {
+        "name": "Harry Hettinger",
+        "email": "Blanca44@gmail.com"
+      },
+      {
+        "name": "Ian Jaskolski",
+        "email": "Abraham90@hotmail.com"
+      },
+      {
+        "name": "Santiago Ledner IV",
+        "email": "Delphine_Stanton@gmail.com"
+      },
+      {
+        "name": "Jill Welch",
+        "email": "Allan_Hermiston25@yahoo.com"
+      },
+      {
+        "name": "Lee Thiel-Herzog Jr.",
+        "email": "Jerrod25@hotmail.com"
+      },
+      {
+        "name": "Nadine Beier DVM",
+        "email": "Alysa4@gmail.com"
+      },
+      {
+        "name": "Lila Carroll",
+        "email": "Nelson.Bahringer77@hotmail.com"
+      },
+      {
+        "name": "Judy Haley",
+        "email": "Susie_Cremin73@hotmail.com"
+      },
+      {
+        "name": "Jackie Franey",
+        "email": "Lennie43@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 96",
+    "instructor": "Juanita Hoppe",
+    "description": "Demitto suppellex nihil blandior accusantium quibusdam caritas caveo ante talis.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/ofvQgKNm/640/480",
+    "duration": "7 weeks",
+    "schedule": "Sun",
+    "location": "532 Wellington Road, Lake Brendenstad",
+    "prerequisites": [
+      "auxilium",
+      "clamo"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "brevis iusto absens",
+        "content": "Annus circumvenio deduco ater artificiose thema coniecto absconditus. Velum voluptatibus creo vitium tot arma accusator. Coadunatio suffoco auctor celebrer vivo vilicus agnosco."
+      }
+    ],
+    "students": [
+      {
+        "name": "Susie Flatley",
+        "email": "Rebeka.Pfeffer91@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 97",
+    "instructor": "Sue Hand",
+    "description": "Cubicularis alioqui terror caste coruscus ab.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/FwdPauj/640/480",
+    "duration": "8 weeks",
+    "schedule": "Mon",
+    "location": "3274 Mayfield Road, Howechester",
+    "prerequisites": [
+      "varietas",
+      "sponte"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "enim tersus tutamen",
+        "content": "Defero sed thesis volubilis cras vesper aperiam amicitia. Aestivus talis atavus totam cinis suus. Cras cauda cubicularis viduo combibo."
+      }
+    ],
+    "students": [
+      {
+        "name": "Sue Kris",
+        "email": "Alessandro_Streich55@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 98",
+    "instructor": "Chad Goodwin",
+    "description": "Perferendis thermae accusantium capio coniecto consectetur verto concedo coruscus.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/R8Ofu/640/480",
+    "duration": "5 weeks",
+    "schedule": "Sun",
+    "location": "7151 Milford Valleys, Atlanta",
+    "prerequisites": [
+      "dolor",
+      "ipsa"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "verus tenuis patria",
+        "content": "Peccatus arma pariatur. Creta quaerat arma tempora synagoga sequi vitium. Adinventitias amo beatus colligo aqua creta."
+      }
+    ],
+    "students": [
+      {
+        "name": "Levi Swift",
+        "email": "Santiago_Armstrong@yahoo.com"
+      },
+      {
+        "name": "Emma Dare",
+        "email": "Lionel26@gmail.com"
+      },
+      {
+        "name": "May Hermiston Jr.",
+        "email": "Nia.Kohler@gmail.com"
+      },
+      {
+        "name": "Dr. Judy Barton",
+        "email": "Mayra27@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 99",
+    "instructor": "Dr. Jacqueline Rutherford",
+    "description": "Pecus tabula cunae ipsa laudantium.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://picsum.photos/seed/wRyl3/640/480",
+    "duration": "9 weeks",
+    "schedule": "Thu",
+    "location": "546 Swift Gateway, Okeyland",
+    "prerequisites": [
+      "tibi",
+      "deripio"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "conqueror cito alo",
+        "content": "Deprimo auctus iure repellat perspiciatis. Deprimo curatio vinco claro. Sol alii audacia vaco bellicus bardus."
+      },
+      {
+        "week": 2,
+        "topic": "adfectus casso aspernatur",
+        "content": "Adipisci aequitas universe. Arceo suscipit cerno speculum ara rerum synagoga cilicium. Tergeo cibo atavus tracto catena tactus."
+      }
+    ],
+    "students": [
+      {
+        "name": "Pete Bechtelar",
+        "email": "Jakob_Abshire@hotmail.com"
+      },
+      {
+        "name": "Mitchell Ritchie",
+        "email": "Erwin.Stokes@gmail.com"
+      },
+      {
+        "name": "Theresa Towne III",
+        "email": "Fletcher_Baumbach51@hotmail.com"
+      },
+      {
+        "name": "Allen Parker",
+        "email": "Madonna.Connelly@yahoo.com"
+      },
+      {
+        "name": "Dr. Antoinette Donnelly",
+        "email": "Ayla99@yahoo.com"
+      },
+      {
+        "name": "Wayne Gulgowski",
+        "email": "Lysanne.Daniel66@gmail.com"
+      },
+      {
+        "name": "Tina Beer",
+        "email": "Garrett55@yahoo.com"
+      },
+      {
+        "name": "Lloyd Kunze",
+        "email": "Lempi47@hotmail.com"
+      },
+      {
+        "name": "Ashley Schneider",
+        "email": "Peyton76@gmail.com"
+      },
+      {
+        "name": "Sandra Yundt Sr.",
+        "email": "Wanda.Dickinson@yahoo.com"
+      },
+      {
+        "name": "Roberta Witting",
+        "email": "Jimmy64@gmail.com"
+      },
+      {
+        "name": "Mr. Dustin Upton",
+        "email": "Drake.Dicki76@yahoo.com"
+      },
+      {
+        "name": "Samuel Witting",
+        "email": "Anderson_OHara-Gutmann67@yahoo.com"
+      },
+      {
+        "name": "Robyn Botsford",
+        "email": "Kathlyn99@gmail.com"
+      },
+      {
+        "name": "Austin Daugherty",
+        "email": "Lily7@yahoo.com"
+      },
+      {
+        "name": "Amy Luettgen DVM",
+        "email": "Chance.Howell2@yahoo.com"
+      },
+      {
+        "name": "Terrence Gusikowski",
+        "email": "Wyatt64@yahoo.com"
+      },
+      {
+        "name": "Leroy Gleichner",
+        "email": "Elwin_Wisoky@gmail.com"
+      },
+      {
+        "name": "Leland McGlynn III",
+        "email": "Brody.Tillman90@yahoo.com"
+      }
+    ]
+  },
+  {
+    "name": "Course 100",
+    "instructor": "Ignacio Bednar",
+    "description": "Aliqua basium aspernatur subiungo subvenio.",
+    "enrollmentStatus": "open",
+    "thumbnail": "https://loremflickr.com/640/480?lock=7235693686292480",
+    "duration": "3 weeks",
+    "schedule": "Sat",
+    "location": "4257 Pink Pines, Nienowborough",
+    "prerequisites": [
+      "acidus",
+      "cunae"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "hic versus benigne",
+        "content": "Supellex solutio amissio. Quia curso utilis deduco. Decumbo depromo absorbeo."
+      },
+      {
+        "week": 2,
+        "topic": "aequus vita utrimque",
+        "content": "Vero ars charisma complectus venio trado summisse tergo. Valeo deprimo cui tribuo claro accusamus trans bellicus. Accusator alii sperno quis aggero possimus communis."
+      }
+    ],
+    "students": [
+      {
+        "name": "Lloyd Yundt",
+        "email": "Antonio60@yahoo.com"
+      },
+      {
+        "name": "Wm Quitzon",
+        "email": "Beryl11@yahoo.com"
+      },
+      {
+        "name": "Bridget Collins",
+        "email": "Anita89@hotmail.com"
+      },
+      {
+        "name": "Jeanette Willms",
+        "email": "Penelope.Wiza@hotmail.com"
+      },
+      {
+        "name": "Bill Kuphal",
+        "email": "Curt_Hand@yahoo.com"
+      },
+      {
+        "name": "Marian Schaefer",
+        "email": "Jaren43@yahoo.com"
+      },
+      {
+        "name": "Mr. Emilio Littel",
+        "email": "Torrey.Cruickshank49@hotmail.com"
+      },
+      {
+        "name": "Shawn Wiegand",
+        "email": "Lempi_Bergnaum-Turner36@gmail.com"
+      },
+      {
+        "name": "Kelly Heathcote",
+        "email": "Leatha51@hotmail.com"
+      },
+      {
+        "name": "Kate Zemlak",
+        "email": "Roel_Fadel@yahoo.com"
+      },
+      {
+        "name": "Lorene McKenzie-Altenwerth",
+        "email": "Lulu_Hammes50@gmail.com"
+      },
+      {
+        "name": "Lydia Tromp",
+        "email": "Haven.Wisozk84@yahoo.com"
+      },
+      {
+        "name": "Ignacio Legros",
+        "email": "Tremaine_Cartwright@yahoo.com"
+      },
+      {
+        "name": "Dr. Delbert Osinski",
+        "email": "Drake.Bergstrom@yahoo.com"
+      },
+      {
+        "name": "Barbara Torphy",
+        "email": "Matteo_Lemke6@gmail.com"
+      },
+      {
+        "name": "Derrick Funk PhD",
+        "email": "Alejandrin_Kerluke41@gmail.com"
+      },
+      {
+        "name": "Carole MacGyver",
+        "email": "Katelyn_Thiel@hotmail.com"
+      }
+    ]
+  }
+]
