@@ -9,7 +9,7 @@ import { protect } from "../controllers/authControllers.js";
 
 const router = express.Router();
 
-router.post("/", getAllCourses);
+router.get("/", getAllCourses);
 router.get("/:id", getCourse);
 router.patch("/like/:id", protect, likeCourse);
 router.patch("/update-status", protect, updateCourseStatus);

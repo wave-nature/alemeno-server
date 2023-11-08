@@ -33,11 +33,11 @@ app.use("/api/health", (req, res) =>
 app.use("/api/dump", async (req, res) => {
   const data = fs.readFileSync(`${process.cwd()}/data.json`, "utf8");
 
-  const jsonData = JSON.parse(data);
+  const jsonData = JSON.parse(data, null, 2);
 
   await Course.deleteMany({});
 
-  await Course.create(jsonData);
+  await Course.insertMany(jsonData);
 
   res.json({ message: "dumped ✅" });
 });

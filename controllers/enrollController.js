@@ -26,6 +26,7 @@ export const enrollIntoCourse = catchAsync(async (req, res, next) => {
   await Enroll.create({
     student: studentId,
     course: courseId,
+    enrollmentStatus: "progress",
   });
 
   res.status(200).json({

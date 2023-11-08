@@ -4,30 +4,30 @@ import AppError from "../utils/appError.js";
 import catchAsync from "../utils/catchAsync.js";
 
 export const getAllCourses = catchAsync(async (req, res, next) => {
-  const limit = req.body.limit * 1 || 10;
-  const page = req.body.page * 1 || 1;
-  const search = req.body.search || "";
+  // const limit = req.body.limit * 1 || 100;
+  // const page = req.body.page * 1 || 1;
+  // const search = req.body.search || "";
 
-  const searchArr = [
-    {
-      name: { $regex: search, $options: "i" },
-    },
-    {
-      instructor: { $regex: search, $options: "i" },
-    },
-    {
-      description: { $regex: search, $options: "i" },
-    },
-    {
-      location: { $regex: search, $options: "i" },
-    },
-  ];
+  // const searchArr = [
+  //   {
+  //     name: { $regex: search, $options: "i" },
+  //   },
+  //   {
+  //     instructor: { $regex: search, $options: "i" },
+  //   },
+  //   {
+  //     description: { $regex: search, $options: "i" },
+  //   },
+  //   {
+  //     location: { $regex: search, $options: "i" },
+  //   },
+  // ];
 
   const courses = await Course.find({
-    $or: [...searchArr],
-  })
-    .limit(limit)
-    .skip((page - 1) * limit);
+    // $or: [...searchArr],
+  });
+  // .limit(limit)
+  // .skip((page - 1) * limit);
 
   res.status(200).json({
     status: "success",
